@@ -1,0 +1,389 @@
+﻿message_id,message_text,label,language_group,scam_type,source_type,source_reference,variant_group_id
+TL-0001,398280 idhu unga Canara Bank transaction-ku OTP. Idhai yaarkittayum share panna vendaam. Bank staff eppavum OTP kekka maattaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L03
+TL-0002,Unga train ticket confirm aayiduchu. PNR 199062344. Payana thedhi 20-Dec. Iniya payanam!,legitimate,Tanglish,none,synthetic,claude_templates_v1,L11
+TL-0003,Ungal cylinder booking confirm aayiduchu. Delivery code 933163735. 2-3 naatkalil deliver aagum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L24
+TL-0004,"Unga current bill Rs.3,500 successfully pay aayiduchu. Receipt number 294667116. Nandri.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L07
+TL-0005,"Ungal sambalam Rs.12,500 XX1234 account-la credit aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L15
+TL-0006,"Anbulla vaadikkaiyaalarae, unga SBI account-oda KYC update aagala. Innaiku iravukkulla update pannalena account block agum. Udanae update panna: http://secure-bank-login.example/a1",scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S01
+TL-0007,Ration card update: Aadhaar link pannalena unga ration niruththapadum. Ippove inaikka: http://rewards-india.example/claim,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S22
+TL-0008,Ungal order innaikku maalai 6 manikkulla deliver agum. Delivery person varumbodhu order number 190340438 sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L05
+TL-0009,"Deepavali special gift! Rs.50,000 value gift voucher free. Ippove petrukka: http://kyc-update-india.example/verify",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S24
+TL-0010,Ungal train ticket confirm aayiduchu. PNR 356804420. Payana thedhi 5-Jan. Iniya payanam!,legitimate,Tanglish,none,synthetic,claude_templates_v1,L11
+TL-0011,Ungal IOB reward points petrukka indha app-ah install pannunga: http://rewards-india.example/claim. Install panna aprom permissions-ah accept pannunga.,scam,Tanglish,fake_app,synthetic,claude_templates_v1,S21
+TL-0012,"Ungalukku Rs.50,000 loan instant approval! Documents thevai illa. Mudhalla insurance fee Rs.99 kattungaa: http://upd8-account.example/login",scam,Tanglish,loan_fee,synthetic,claude_templates_v1,S11
+TL-0013,"Ungal order cancel aanadhaal Rs.7,800 5-7 working days-la ungal original account-ku thirumbi varum.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L22
+TL-0014,"Neenga UPI moolama Rs.25,000 anuppirukkeenga. Transaction number 508214862. Ungalodadhu illainaa udan bank-ah anugunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L14
+TL-0015,"Unga mobile number Rs.5,00,000 lucky draw-la select aagirukku. Parisu thogaiya petrukka processing fee Rs.2,999 kattungaa: http://upd8-account.example/login",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S04
+TL-0016,Ungal HDFC Bank bank account 24 mani neraththula seyalizhakkum. PAN number-ai verify panna ippave indha link-ah open pannunga: http://bit-lnk.example/x7Kp,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S02
+TL-0017,"Arasu education scholarship Rs.5,00,000 ungalukku sanction aagirukku. Petrukka bank number matrum ATM PIN submit pannungaa: http://claim-prize-now.example/win",scam,Tanglish,scholarship_scam,synthetic,claude_templates_v1,S23
+TL-0018,"Vaazhthukkal! Adhirshta kulukkalil neenga Rs.2,50,000 parisu jeichirukkeenga. Parisai petrukka indrae inge register pannungaa: http://rewards-india.example/claim",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S03
+TL-0019,"Ungalukku Rs.50,000 loan instant approval! Documents thevai ila. Mudhalla insurance fee Rs.1,499 kattunga: http://claim-prize-now.example/win",scam,Tanglish,loan_fee,synthetic,claude_templates_v1,S11
+TL-0020,"Video like pannaa ovvonnukkum Rs.5,000. Mudhalla Rs.1,499 deposit pannunga: http://upd8-account.example/login",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S29
+TL-0021,"Income Tax department: ungalukku Rs.3,500 tax refund sanction aagirukku. Bank details submit panna: http://rewards-india.example/claim",scam,Tanglish,tax_refund,synthetic,claude_templates_v1,S17
+TL-0022,"Ungal ICICI Bank account-la Rs.2,000 transaction nadandhirukku. Neenga seiyalena cancel panna udane ungal card number-ai enter pannunga: http://rewards-india.example/claim",scam,Tanglish,card_phishing,synthetic,claude_templates_v1,S25
+TL-0023,596575 idhu ungal Axis Bank transaction-ku OTP. Idhai yaarkittayum share panna vendaam. Bank staff eppavum OTP kekka maattaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L03
+TL-0024,"Ungal IOB credit card reward points Rs.25,000 innaiku expire aagum. Ippove cash-aa maatha: http://upd8-account.example/login",scam,Tanglish,reward_points,synthetic,claude_templates_v1,S16
+TL-0025,Ungal ICICI Bank reward points petrukka indha app-ah install pannunga: http://claim-prize-now.example/win. Install panna aprom permissions-ah accept pannungaa.,scam,Tanglish,fake_app,synthetic,claude_templates_v1,S21
+TL-0026,Unga cylinder subsidy niruththapadum. Aadhaar link-ah confirm panna inge enter pannunga: http://kyc-update-india.example/verify,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S18
+TL-0027,ICICI Bank: Ungal KYC documents-ah arugil ulla branch-la neril update pannalaam. Endha link-ayum open panna vendaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L13
+TL-0028,"Anbulla vaadikkaiyaalarae, ungal Indian Bank account-oda KYC update aagala. Innaiku iravukkulla update pannalena account block aagum. Udanae update panna: http://rewards-india.example/claim",scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S01
+TL-0029,"Unga current bill Rs.1,250 successfully pay aayiduchu. Receipt number 604223253. Nandri.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L07
+TL-0030,"Unga mobile number Rs.2,50,000 lucky draw-la select aagirukku. Parisu thogaiya petrukka processing fee Rs.99 kattunga: http://kyc-update-india.example/verify",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S04
+TL-0031,"Ungal sambalam Rs.1,250 XX9021 account-la credit aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L15
+TL-0032,Ungal order innaikku maalai 6 manikkulla deliver aagum. Delivery person varumbodhu order number 991251341 solunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L05
+TL-0033,"ICICI Bank: Unga credit card bill Rs.1,250 generate aagirukku. Kadaisi thedhi 5-Jan. App-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L21
+TL-0034,"Ungal ICICI Bank account-la Rs.3,500 transaction nadandhirukku. Neenga seiyalena cancel panna udanae ungal card number-ai enter pannunga: http://kyc-update-india.example/verify",scam,Tanglish,card_phishing,synthetic,claude_templates_v1,S25
+TL-0035,Ungal interview 20-Dec anru kaalai 11 manikku nadakkum. ID card-oda vaanga. Edhuvum fee illa.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L25
+TL-0036,"Neenga UPI moolama Rs.3,500 anuppirukkeenga. Transaction number 229991191. Ungalodadhu illainaa udan bank-ah anugunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L14
+TL-0037,"Traffic rule violation fine Rs.3,500 ungal vehicle-ku vidhikkapattirukku. Official arasu website-la allathu police station-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L30
+TL-0038,"SBI echcharikkai: Ungal PIN, OTP, CVV edhaiyum yaarkittayum share panna vendaam. Sandhegam irundhaa card-oda pinnaadi irukkira number-ku call pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L12
+TL-0039,"ICICI Bank echcharikkai: Ungal PIN, OTP, CVV edhaiyum yaarkittayum share panna vendaam. Sandhegam irundhaa card-oda pinnaadi irukkira number-ku call pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L12
+TL-0040,"Vaazhthukkal! Adhirshta kulukkalil neenga Rs.50,000 parisu jeichirukkeenga. Parisai petrukka indrae inge register pannunga: http://rewards-india.example/claim",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S03
+TL-0041,"Thavaruthalaa ungal account-ku Rs.12,500 anuppiten. Dayavu senju thirumba anuppunga: +91-8XXXXXXXXX",scam,Tanglish,wrong_transfer,synthetic,claude_templates_v1,S20
+TL-0042,"Axis Bank: Ungal loan EMI Rs.25,000 varum 15-Dec anru debit aagum. Podhumaana balance maintain pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L08
+TL-0043,"Ungal Canara Bank credit card reward points Rs.3,500 innaiku expire aagum. Ippove cash-aa maatha: http://bit-lnk.example/x7Kp",scam,Tanglish,reward_points,synthetic,claude_templates_v1,S16
+TL-0044,Ungal parcel customs-la niruthi vachirukkaanga. Release panna Rs.999 fee kattunga: http://secure-bank-login.example/a1,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S08
+TL-0045,Unga courier-ah deliver panna mudiyala. Address thappu. Rs.199 redelivery fee kattungaa: http://kyc-update-india.example/verify,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S09
+TL-0046,"Veettulaye velai! Dhinamum Rs.1,500 sambaadhikkalaam. Registration fee Rs.1,499 mattum. WhatsApp-la contact pannunga: +91-9XXXXXXXXX",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S10
+TL-0047,Ungal courier-ah deliver panna mudiyala. Address thappu. Rs.999 redelivery fee kattunga: http://upd8-account.example/login,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S09
+TL-0048,"Ungalukku Rs.1,00,000 loan instant approval! Documents thevai illa. Mudhalla insurance fee Rs.99 katunga: http://kyc-update-india.example/verify",scam,Tanglish,loan_fee,synthetic,claude_templates_v1,S11
+TL-0049,Unga parcel customs-la niruthi vachirukkaanga. Release panna Rs.99 fee kattunga: http://upd8-account.example/login,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S08
+TL-0050,"Veettulaye velai! Dhinamum Rs.3,000 sambaadhikkalaam. Registration fee Rs.2,999 mattum. WhatsApp-la contact pannungaa: +91-7XXXXXXXXX",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S10
+TL-0051,"Ungal current bill Rs.7,800 successfully pay aayiduchu. Receipt number 584982544. Nandri.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L07
+TL-0052,"Deepavali special gift! Rs.10,00,000 value gift voucher free. Ippove petrukka: http://bit-lnk.example/x7Kp",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S24
+TL-0053,"Anbulla vaadikkaiyaalarae, ungal IOB account-oda KYC update aagala. Innaiku iravukkulla update pannalena account block aagum. Udanae update panna: http://claim-prize-now.example/win",scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S01
+TL-0054,Ungal Aadhaar number innaiku lock agum. Thavirkka OTP moolama confirm pannunga: http://bit-lnk.example/x7Kp,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S26
+TL-0055,"Video like pannaa ovvonnukkum Rs.3,000. Mudhalla Rs.2,999 deposit pannunga: http://rewards-india.example/claim",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S29
+TL-0056,"IOB: Ungal account XX9021-la balance Rs.1,240 mattum dhaan irukku. Minimum balance maintain pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L26
+TL-0057,Unga cylinder booking confirm aayiduchu. Delivery code 838663177. 2-3 naatkalil deliver aagum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L24
+TL-0058,Free 3 month recharge offer! Inniku mattum. Ungal number-ai enter pannitu PIN-ah confirm panunga: http://claim-prize-now.example/win,scam,Tanglish,recharge_scam,synthetic,claude_templates_v1,S27
+TL-0059,"Current bill Rs.12,500 15-Dec-kkulla katta vendum. Official app allathu office-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L16
+TL-0060,Ungal insurance premium Rs.499 12-Dec anru katta vendum. Auto-pay already activate aagirukku.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L23
+TL-0061,891135 idhu ungal login code. 10 nimishathula expire agum. Neenga ketkalena idha ignore panunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L04
+TL-0062,"Arasu education scholarship Rs.10,00,000 ungalukku sanction aagirukku. Petrukka bank number matrum ATM PIN submit pannunga: http://kyc-update-india.example/verify",scam,Tanglish,scholarship_scam,synthetic,claude_templates_v1,S23
+TL-0063,"Income Tax department: ungalukku Rs.7,800 tax refund sanction aagirukku. Bank details submit panna: http://upd8-account.example/login",scam,Tanglish,tax_refund,synthetic,claude_templates_v1,S17
+TL-0064,416724 idhu ungal Axis Bank transaction-ku OTP. Idhai yaarkittayum share panna vendam. Bank staff eppavum OTP kekka maattaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L03
+TL-0065,"Ungal order cancel aanadhaal Rs.3,500 5-7 working days-la ungal original account-ku thirumbi varum.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L22
+TL-0066,"Ungal Indian Bank credit card reward points Rs.3,500 innaiku expire aagum. Ippo cash-aa maatha: http://bit-lnk.example/x7Kp",scam,Tanglish,reward_points,synthetic,claude_templates_v1,S16
+TL-0067,"Ungal insurance premium Rs.3,500 20-Dec anru katta vendum. Auto-pay already activate aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L23
+TL-0068,"Ungalukku Rs.1,00,000 loan instant approval! Documents thevai illa. Mudhalla insurance fee Rs.499 kattunga: http://upd8-account.example/login",scam,Tanglish,loan_fee,synthetic,claude_templates_v1,S11
+TL-0069,"Traffic rule violation fine Rs.12,500 unga vehicle-ku vidhikkapattirukku. Official arasu website-la allathu police station-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L30
+TL-0070,Ration card update: Aadhaar link pannalena ungal ration niruththapadum. Ippove inaikka: http://bit-lnk.example/x7Kp,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S22
+TL-0071,"IOB: Ungal loan EMI Rs.25,000 varum 15-Dec anru debit aagum. Podhumaana balance maintain pannungaa.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L08
+TL-0072,Ungal Axis Bank reward points petrukka indha app-ah install pannunga: http://bit-lnk.example/x7Kp. Install panna aprom permissions-ah accept panunga.,scam,Tanglish,fake_app,synthetic,claude_templates_v1,S21
+TL-0073,Ungal cylinder booking confirm aayiduchu. Delivery code 775170166. 2-3 naatkalil deliver aagum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L24
+TL-0074,"Axis Bank: Unga account XX5678-la irundhu Rs.499 debit aagirukku. Balance Rs.1,240.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L01
+TL-0075,"Vanakkam, naan veliyoorlendhu ungalukku vilai uyarndha parisu anuppirukken. Airport fee Rs.1,499 kattinaa kidaikkum: +91-8XXXXXXXXX",scam,Tanglish,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TL-0076,"Ungal insurance maturity amount Rs.10,00,000 ready-aa irukku. Petrukka processing fee Rs.199 kattunga: http://claim-prize-now.example/win",scam,Tanglish,insurance_scam,synthetic,claude_templates_v1,S30
+TL-0077,Ungal Axis Bank reward points petrukka indha app-ah install panunga: http://rewards-india.example/claim. Install panna aprom permissions-ah accept pannunga.,scam,Tanglish,fake_app,synthetic,claude_templates_v1,S21
+TL-0078,"Ungal SBI credit card reward points Rs.25,000 innaiku expire agum. Ippove cash-aa maatha: http://secure-bank-login.example/a1",scam,Tanglish,reward_points,synthetic,claude_templates_v1,S16
+TL-0079,Ration card update: Aadhaar link pannalena ungal ration niruththapadum. Ippove inaikka: http://claim-prize-now.example/win,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S22
+TL-0080,Ungal cab driver 5 nimishathula varuvaar. OTP 899441. Trip start aagum podhu mattum driver kitta sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L20
+TL-0081,Deepavali vaazhthukkal! Engal kadaila naaalai mudhal 10% discount. Neril vaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L28
+TL-0082,"Thavaruthalaa unga account-ku Rs.12,500 anuppiten. Dayavu senju thirumba anuppunga: +91-9XXXXXXXXX",scam,Tanglish,wrong_transfer,synthetic,claude_templates_v1,S20
+TL-0083,"Unga Canara Bank credit card reward points Rs.3,500 innaikku expire aagum. Ippove cash-aa maatha: http://upd8-account.example/login",scam,Tanglish,reward_points,synthetic,claude_templates_v1,S16
+TL-0084,Ungal current bill Rs.499 successfully pay aayiduchu. Receipt number 632424154. Nandri.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L07
+TL-0085,"Deepavali special gift! Rs.25,000 value gift voucher free. Ippove petrukka: http://kyc-update-india.example/verify",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S24
+TL-0086,"Amma, en number maariduchu. Avasaramaa Rs.2,000 anuppa mudiyuma? Indha UPI number-ku anuppunga: +91-9XXXXXXXXX",scam,Tanglish,relative_emergency,synthetic,claude_templates_v1,S19
+TL-0087,"HDFC Bank echcharikkai: Unga PIN, OTP, CVV edhaiyum yaarkittayum share panna vendaam. Sandhegam irundhaa card-oda pinnaadi irukkira number-ku call panunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L12
+TL-0088,"Ungal courier-ah deliver panna mudiyala. Address thappu. Rs.2,999 redelivery fee kattunga: http://kyc-update-india.example/verify",scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S09
+TL-0089,"Vanakkam, naan veliyoorlendhu ungalukku vilai uyarndha parisu anuppirukken. Airport fee Rs.999 kattinaa kidaikkum: +91-9XXXXXXXXX",scam,Tanglish,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TL-0090,"Ungal SBI credit card reward points Rs.1,250 inniku expire aagum. Ippave cash-aa maatha: http://upd8-account.example/login",scam,Tanglish,reward_points,synthetic,claude_templates_v1,S16
+TL-0091,ICICI Bank security team: unga account-la sandhegamaana transaction. Thadukka ungalukku vandha OTP-ai udanae indha number-ku solunga: +91-9XXXXXXXXX,scam,Tanglish,otp_request,synthetic,claude_templates_v1,S05
+TL-0092,IOB: Unga KYC documents-ah arugil ulla branch-la neril update pannalaam. Endha link-ayum open panna vendaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L13
+TL-0093,"Ungal parcel customs-la niruthi vachirukkaanga. Release panna Rs.2,999 fee kattungaa: http://claim-prize-now.example/win",scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S08
+TL-0094,"Vaazhthukkal! Adhirshta kulukkalil neenga Rs.10,00,000 parisu jeichirukkeenga. Parisai petrukka indrae inge register pannunga: http://claim-prize-now.example/win",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S03
+TL-0095,"Amma, naan ooru vandhu sernthuten. Kavalai padaadheenga. Iravu pesuren.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L19
+TL-0096,Ungal interview 5-Jan anru kaalai 11 manikku nadakkum. ID card-oda vaanga. Edhuvum fee illa.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L25
+TL-0097,"Unga insurance maturity amount Rs.25,000 ready-aa irukku. Petrukka processing fee Rs.99 kattungaa: http://kyc-update-india.example/verify",scam,Tanglish,insurance_scam,synthetic,claude_templates_v1,S30
+TL-0098,Ungal train ticket confirm aayiduchu. PNR 641383670. Payana thedhi 15-Dec. Iniya payanam!,legitimate,Tanglish,none,synthetic,claude_templates_v1,L11
+TL-0099,"Deepavali special gift! Rs.2,50,000 value gift voucher free. Ippove petrukka: http://bit-lnk.example/x7Kp",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S24
+TL-0100,Axis Bank security team: ungal account-la sandhegamaana transaction. Thadukka ungalukku vandha OTP-ai udan indha number-ku sollunga: +91-8XXXXXXXXX,scam,Tanglish,otp_request,synthetic,claude_templates_v1,S05
+TL-0101,"Amma, en number maariduchu. Avasaramaa Rs.12,500 anuppa mudiyuma? Indha UPI number-ku anuppunga: +91-7XXXXXXXXX",scam,Tanglish,relative_emergency,synthetic,claude_templates_v1,S19
+TL-0102,Ninaivoottal: naalai kaalai 10 manikku doctor-udan ungal appointment iruku. Maatha vendumna hospital-ah call pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L10
+TL-0103,"Unga order-ku Rs.2,000 refund petrukka, anuppina 6 digit OTP-ai engalukku share pannunga.",scam,Tanglish,otp_request,synthetic,claude_templates_v1,S06
+TL-0104,"Ungal order-ku Rs.499 refund petrukka, anuppina 6 digit OTP-ai engalukku share pannunga.",scam,Tanglish,otp_request,synthetic,claude_templates_v1,S06
+TL-0105,"Income Tax department: ungalukku Rs.1,250 tax refund sanction aagirukku. Bank details submit panna: http://kyc-update-india.example/verify",scam,Tanglish,tax_refund,synthetic,claude_templates_v1,S17
+TL-0106,"Traffic rule violation fine Rs.2,000 ungal vehicle-ku vidhikkapattirukku. Official arasu website-la allathu police station-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L30
+TL-0107,799371 idhu ungal Indian Bank transaction-ku OTP. Idhai yaarkittayum share panna vendaam. Bank staff eppavum OTP kekka maattaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L03
+TL-0108,254573 idhu unga login code. 10 nimishathula expire aagum. Neenga ketkalena idha ignore pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L04
+TL-0109,"Indian Bank: Ungal account XX5678-la Rs.25,000 credit aagirukku. Ippodhaiya balance Rs.1,240.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L02
+TL-0110,Unga SIM card KYC pending-la irukkuu. 2 mani neraththula connection nindrudum. Ippove call pannunga: +91-9XXXXXXXXX,scam,Tanglish,sim_block,synthetic,claude_templates_v1,S13
+TL-0111,"Ungal sambalam Rs.12,500 XX5678 account-la credit aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L15
+TL-0112,"IOB: Unga account XX4410-la irundhu Rs.1,250 debit aagirukku. Balance Rs.5,670.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L01
+TL-0113,"Veettulaye velai! Dhinamum Rs.3,000 sambaadhikkalaam. Registration fee Rs.199 mattum. WhatsApp-la contact panunga: +91-8XXXXXXXXX",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S10
+TL-0114,Ungal parcel customs-la niruthi vachirukkaanga. Release panna Rs.199 fee kattungaa: http://secure-bank-login.example/a1,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S08
+TL-0115,"Unga sambalam Rs.1,250 XX4410 account-la credit aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L15
+TL-0116,Ration card update: Aadhaar link pannalena unga ration niruththapadum. Ippove inaikka: http://secure-bank-login.example/a1,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S22
+TL-0117,793564 idhu unga Indian Bank transaction-ku OTP. Idhai yaarkittayum share panna vendaam. Bank staff eppavum OTP kekka maattaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L03
+TL-0118,Ungal order innaiku maalai 6 manikkulla deliver aagum. Delivery person varumbodhu order number 033419182 solunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L05
+TL-0119,"Thavaruthalaa ungal account-ku Rs.1,250 anuppiten. Dayavu senju thirumba anuppunga: +91-9XXXXXXXXX",scam,Tanglish,wrong_transfer,synthetic,claude_templates_v1,S20
+TL-0120,Ungal parcel successfully deliver aayiduchu. Nandri! Product-la edhaavadhu problem irundhaa app-la therivinga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L06
+TL-0121,"Axis Bank: Ungal account XX4410-la balance Rs.42,310 mattum dhaan irukku. Minimum balance maintain pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L26
+TL-0122,SBI: Ungal KYC documents-ah arugil ulla branch-la neril update pannalaam. Endha link-ayum open panna vendaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L13
+TL-0123,Ungal train ticket confirm aayiduchu. PNR 411249035. Payana thedhi 15-Dec. Iniya payanam!,legitimate,Tanglish,none,synthetic,claude_templates_v1,L11
+TL-0124,"Ungal insurance premium Rs.3,500 15-Dec anru katta vendum. Auto-pay already activate aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L23
+TL-0125,Ration card update: Aadhaar link pannalena unga ration niruththapadum. Ippove inaikka: http://kyc-update-india.example/verify,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S22
+TL-0126,"Vanakkam, naan veliyoorlendhu ungalukku vilai uyarndha parisu anuppirukken. Airport fee Rs.1,499 kattinaa kidaikkum: +91-7XXXXXXXXX",scam,Tanglish,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TL-0127,Cyber crime branch: ungal Aadhaar number illegal activity-la use aagirukku. Arrest-ah thavirkka udane indha number-ku call panunga: +91-9XXXXXXXXX,scam,Tanglish,authority_impersonation,synthetic,claude_templates_v1,S14
+TL-0128,"Ungal sambalam Rs.1,250 XX5678 account-la credit aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L15
+TL-0129,"Ungalukku Rs.12,500 cashback kaathirukku. Petrukka UPI request-ah accept pannitu ungal PIN-ah enter pannungaa.",scam,Tanglish,upi_fraud,synthetic,claude_templates_v1,S12
+TL-0130,"Ungalukku Rs.50,000 loan instant approval! Documents thevai illa. Mudhalla insurance fee Rs.199 kattunga: http://claim-prize-now.example/win",scam,Tanglish,loan_fee,synthetic,claude_templates_v1,S11
+TL-0131,"SBI: Ungal account XX5678-la Rs.2,000 credit aagirukku. Ippodhaiya balance Rs.18,900.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L02
+TL-0132,"Amma, en number maariduchu. Avasaramaa Rs.3,500 anuppa mudiyuma? Indha UPI number-ku anuppunga: +91-8XXXXXXXXX",scam,Tanglish,relative_emergency,synthetic,claude_templates_v1,S19
+TL-0133,622444 idhu ungal Indian Bank transaction-ku OTP. Idhai yaarkittayum share panna vendaam. Bank staff eppavum OTP kekka maattaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L03
+TL-0134,Ungal order cancel aanadhaal Rs.499 5-7 working days-la ungal original account-ku thirumbi varum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L22
+TL-0135,"Ungal current bill Rs.1,250 successfully pay aayiduchu. Receipt number 637454589. Nandri.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L07
+TL-0136,Ungal SIM card KYC pending-la irukku. 2 mani neraththula connection nindrudum. Ippave call pannunga: +91-7XXXXXXXXX,scam,Tanglish,sim_block,synthetic,claude_templates_v1,S13
+TL-0137,"Unga current bill Rs.12,500 successfully pay aayiduchu. Receipt number 577590175. Nandri.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L07
+TL-0138,Ungal HDFC Bank bank account 24 mani neraththula seyalizhakkum. PAN number-ai verify panna ippove indha link-ah open pannunga: http://upd8-account.example/login,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S02
+TL-0139,"Ungalukku Rs.7,800 cashback kaathirukku. Petrukka UPI request-ah accept pannitu ungal PIN-ah enter pannunga.",scam,Tanglish,upi_fraud,synthetic,claude_templates_v1,S12
+TL-0140,"Unga recharge Rs.7,800 successfully mudinjuchu. Validity 28 naatkal.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L09
+TL-0141,"HDFC Bank: Ungal account XX9021-la irundhu Rs.7,800 debit aagirukku. Balance Rs.1,240.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L01
+TL-0142,"Ungal Indian Bank account-la Rs.12,500 transaction nadandhirukku. Neenga seiyalena cancel panna udanae ungal card number-ai enter pannungaa: http://upd8-account.example/login",scam,Tanglish,card_phishing,synthetic,claude_templates_v1,S25
+TL-0143,Indian Bank: Ungal KYC documents-ah arugil ulla branch-la neril update pannalaam. Endha link-ayum open panna vendaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L13
+TL-0144,"Vaazhthukkal! Adhirshta kulukkalil neenga Rs.10,00,000 parisu jeichirukkeenga. Parisai petrukka indrae inge register pannunga: http://upd8-account.example/login",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S03
+TL-0145,"Ungal insurance maturity amount Rs.2,50,000 ready-aa irukku. Petrukka processing fee Rs.1,499 kattungaa: http://bit-lnk.example/x7Kp",scam,Tanglish,insurance_scam,synthetic,claude_templates_v1,S30
+TL-0146,IOB security team: ungal account-la sandhegamaana transaction. Thadukka ungalukku vandha OTP-ai udanae indha number-ku sollunga: +91-9XXXXXXXXX,scam,Tanglish,otp_request,synthetic,claude_templates_v1,S05
+TL-0147,"Ungal recharge Rs.2,000 successfully mudinjuchu. Validity 28 naatkal.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L09
+TL-0148,"Ungal HDFC Bank account-la Rs.7,800 transaction nadandhirukku. Neenga seiyalena cancel panna udane unga card number-ai enter panunga: http://claim-prize-now.example/win",scam,Tanglish,card_phishing,synthetic,claude_templates_v1,S25
+TL-0149,"Canara Bank: Ungal account XX4410-la Rs.3,500 credit aagirukku. Ippodhaiya balance Rs.42,310.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L02
+TL-0150,Unga courier-ah deliver panna mudiyala. Address thappu. Rs.99 redelivery fee kattungaa: http://rewards-india.example/claim,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S09
+TL-0151,"Ungal Canara Bank credit card reward points Rs.1,250 innaiku expire agum. Ippove cash-aa maatha: http://bit-lnk.example/x7Kp",scam,Tanglish,reward_points,synthetic,claude_templates_v1,S16
+TL-0152,"Ungal mobile number Rs.25,000 lucky draw-la select aagirukku. Parisu thogaiya petrukka processing fee Rs.499 kattunga: http://bit-lnk.example/x7Kp",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S04
+TL-0153,Ungal cylinder booking confirm aayiduchu. Delivery code 917798270. 2-3 naatkalil deliver agum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L24
+TL-0154,"Veettulaye velai! Dhinamum Rs.3,000 sambaadhikkalaam. Registration fee Rs.99 mattum. WhatsApp-la contact pannunga: +91-8XXXXXXXXX",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S10
+TL-0155,"IOB: Ungal credit card bill Rs.3,500 generate aagirukku. Kadaisi thedhi 12-Dec. App-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L21
+TL-0156,"Unga insurance maturity amount Rs.25,000 ready-aa irukku. Petrukka processing fee Rs.1,499 katunga: http://upd8-account.example/login",scam,Tanglish,insurance_scam,synthetic,claude_templates_v1,S30
+TL-0157,"Neenga UPI moolama Rs.7,800 anuppirukkeenga. Transaction number 023303070. Ungalodadhu illainaa udan bank-ah anugunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L14
+TL-0158,"Income Tax department: ungalukku Rs.3,500 tax refund sanction aagirukku. Bank details submit panna: http://kyc-update-india.example/verify",scam,Tanglish,tax_refund,synthetic,claude_templates_v1,S17
+TL-0159,"Ungal courier-ah deliver panna mudiyala. Address thappu. Rs.2,999 redelivery fee kattungaa: http://secure-bank-login.example/a1",scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S09
+TL-0160,Ungal order innaiku maalai 6 manikkulla deliver agum. Delivery person varumbodhu order number 507236887 sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L05
+TL-0161,"Axis Bank: Ungal account XX5678-la irundhu Rs.2,000 debit aagirukku. Balance Rs.42,310.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L01
+TL-0162,"Ungal order cancel aanadhaal Rs.1,250 5-7 working days-la ungal original account-ku thirumbi varum.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L22
+TL-0163,Cyber crime branch: ungal Aadhaar number illegal activity-la use aagirukku. Arrest-ah thavirkka udane indha number-ku call pannunga: +91-8XXXXXXXXX,scam,Tanglish,authority_impersonation,synthetic,claude_templates_v1,S14
+TL-0164,Free 3 month recharge offer! Innaiku mattum. Ungal number-ai enter pannitu PIN-ah confirm pannunga: http://upd8-account.example/login,scam,Tanglish,recharge_scam,synthetic,claude_templates_v1,S27
+TL-0165,"Ungalukku Rs.1,00,000 loan instant approval! Documents thevai illa. Mudhalla insurance fee Rs.2,999 katunga: http://rewards-india.example/claim",scam,Tanglish,loan_fee,synthetic,claude_templates_v1,S11
+TL-0166,Ungal order innaiku maalai 6 manikkulla deliver aagum. Delivery person varumbodhu order number 627828274 sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L05
+TL-0167,"Amma, en number maariduchu. Avasaramaa Rs.7,800 anuppa mudiyuma? Indha UPI number-ku anuppunga: +91-9XXXXXXXXX",scam,Tanglish,relative_emergency,synthetic,claude_templates_v1,S19
+TL-0168,"Vanakkam, naan veliyoorlendhu ungalukku vilai uyarndha parisu anuppirukken. Airport fee Rs.199 kattinaa kidaikkum: +91-8XXXXXXXXX",scam,Tanglish,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TL-0169,Ungal train ticket confirm aayiduchu. PNR 277561853. Payana thedhi 5-Jan. Iniya payanam!,legitimate,Tanglish,none,synthetic,claude_templates_v1,L11
+TL-0170,Ungal Aadhaar number innaiku lock aagum. Thavirkka OTP moolama confirm panunga: http://claim-prize-now.example/win,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S26
+TL-0171,Ungal IOB reward points petrukka indha app-ah install pannunga: http://upd8-account.example/login. Install panna aprom permissions-ah accept pannungaa.,scam,Tanglish,fake_app,synthetic,claude_templates_v1,S21
+TL-0172,Ungal Indian Bank bank account 24 mani neraththula seyalizhakkum. PAN number-ai verify panna ippove indha link-ah open pannunga: http://claim-prize-now.example/win,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S02
+TL-0173,"Deepavali special gift! Rs.50,000 value gift voucher free. Ippave petrukka: http://rewards-india.example/claim",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S24
+TL-0174,HDFC Bank: Unga loan EMI Rs.499 varum 15-Dec anru debit aagum. Podhumaana balance maintain pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L08
+TL-0175,"Current bill Rs.3,500 15-Dec-kkulla katta vendum. Official app allathu office-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L16
+TL-0176,"Ungal current bill Rs.12,500 successfully pay aayiduchu. Receipt number 206436110. Nandri.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L07
+TL-0177,"Unga Canara Bank account-la Rs.3,500 transaction nadandhirukku. Neenga seiyalena cancel panna udanae ungal card number-ai enter pannungaa: http://secure-bank-login.example/a1",scam,Tanglish,card_phishing,synthetic,claude_templates_v1,S25
+TL-0178,Engal VIP group-la serunga! Oru vaarathula investment-ah double pannalaam. Guaranteed profit. Sera: http://claim-prize-now.example/win,scam,Tanglish,investment_scam,synthetic,claude_templates_v1,S15
+TL-0179,Ungal cylinder subsidy niruththapadum. Aadhaar link-ah confirm panna inge enter pannunga: http://secure-bank-login.example/a1,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S18
+TL-0180,"IOB: Ungal credit card bill Rs.25,000 generate aagirukku. Kadaisi thedhi 15-Dec. App-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L21
+TL-0181,"Ungal IOB account-la Rs.12,500 transaction nadandhirukku. Neenga seiyalena cancel panna udanae ungal card number-ai enter pannunga: http://claim-prize-now.example/win",scam,Tanglish,card_phishing,synthetic,claude_templates_v1,S25
+TL-0182,Canara Bank: Ungal KYC documents-ah arugil ulla branch-la neril update pannalaam. Endha link-ayum open panna vendam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L13
+TL-0183,"Ungal mobile number Rs.25,000 lucky draw-la select aagirukku. Parisu thogaiya petrukka processing fee Rs.499 katunga: http://secure-bank-login.example/a1",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S04
+TL-0184,Ungal cab driver 5 nimishathula varuvaar. OTP 417248. Trip start agum podhu mattum driver kitta sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L20
+TL-0185,"Ungal parcel customs-la niruthi vachirukkaanga. Release panna Rs.1,499 fee kattunga: http://upd8-account.example/login",scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S08
+TL-0186,"Ungal insurance maturity amount Rs.50,000 ready-aa iruku. Petrukka processing fee Rs.499 kattungaa: http://claim-prize-now.example/win",scam,Tanglish,insurance_scam,synthetic,claude_templates_v1,S30
+TL-0187,"Vanakkam, naan veliyoorlendhu ungalukku vilai uyarndha parisu anuppirukken. Airport fee Rs.499 kattinaa kidaikkum: +91-9XXXXXXXXX",scam,Tanglish,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TL-0188,"Income Tax department: ungalukku Rs.12,500 tax refund sanction aagirukku. Bank details submit panna: http://kyc-update-india.example/verify",scam,Tanglish,tax_refund,synthetic,claude_templates_v1,S17
+TL-0189,Engal VIP group-la serunga! Oru vaarathula investment-ah double pannalaam. Guaranteed profit. Sera: http://bit-lnk.example/x7Kp,scam,Tanglish,investment_scam,synthetic,claude_templates_v1,S15
+TL-0190,Unga courier-ah deliver panna mudiyala. Address thappu. Rs.499 redelivery fee kattunga: http://kyc-update-india.example/verify,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S09
+TL-0191,"Current bill Rs.1,250 20-Dec-kkulla katta vendum. Official app allathu office-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L16
+TL-0192,"Ungal mobile number Rs.10,00,000 lucky draw-la select aagirukku. Parisu thogaiya petrukka processing fee Rs.99 kattunga: http://claim-prize-now.example/win",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S04
+TL-0193,"IOB: Ungal account XX5678-la Rs.7,800 credit aagirukku. Ippodhaiya balance Rs.18,900.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L02
+TL-0194,Engal VIP group-la serunga! Oru vaarathula investment-ah double pannalaam. Guaranteed profit. Sera: http://secure-bank-login.example/a1,scam,Tanglish,investment_scam,synthetic,claude_templates_v1,S15
+TL-0195,Unga cab driver 5 nimishathula varuvaar. OTP 574374. Trip start aagum podhu mattum driver kitta solunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L20
+TL-0196,TNEB arivippu: nilaiyil ulla current bill kattaathathaala innaiku iravu 9.30-kku ungal current connection cut aagum. Udan call pannungaa: +91-7XXXXXXXXX,scam,Tanglish,utility_threat,synthetic,claude_templates_v1,S07
+TL-0197,Unga order innaikku maalai 6 manikkulla deliver aagum. Delivery person varumbodhu order number 074517133 sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L05
+TL-0198,"Ungal insurance premium Rs.25,000 12-Dec anru katta vendum. Auto-pay already activate aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L23
+TL-0199,"Ungal current bill Rs.25,000 successfully pay aayiduchu. Receipt number 750017012. Nandri.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L07
+TL-0200,"Vaazhthukkal! Adhirshta kulukkalil neenga Rs.25,000 parisu jeichirukkeenga. Parisai petrukka indrae inge register panunga: http://claim-prize-now.example/win",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S03
+TL-0201,Engal VIP group-la serunga! Oru vaarathula investment-ah double pannalaam. Guaranteed profit. Sera: http://kyc-update-india.example/verify,scam,Tanglish,investment_scam,synthetic,claude_templates_v1,S15
+TL-0202,"Video like pannaa ovvonnukkum Rs.5,000. Mudhalla Rs.999 deposit panunga: http://upd8-account.example/login",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S29
+TL-0203,"HDFC Bank: Ungal account XX9021-la balance Rs.1,240 mattum dhaan irukku. Minimum balance maintain pannungaa.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L26
+TL-0204,"Traffic rule violation fine Rs.7,800 ungal vehicle-ku vidhikkapattirukku. Official arasu website-la allathu police station-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L30
+TL-0205,Axis Bank security team: ungal account-la sandhegamaana transaction. Thadukka ungalukku vandha OTP-ai udanae indha number-ku sollunga: +91-9XXXXXXXXX,scam,Tanglish,otp_request,synthetic,claude_templates_v1,S05
+TL-0206,"Vanakkam, naan veliyoorlendhu ungalukku vilai uyarndha parisu anuppirukken. Airport fee Rs.499 kattinaa kidaikkum: +91-8XXXXXXXXX",scam,Tanglish,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TL-0207,"Vaazhthukkal! Adhirshta kulukkalil neenga Rs.50,000 parisu jeichirukkeenga. Parisai petrukka indrae inge register pannungaa: http://kyc-update-india.example/verify",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S03
+TL-0208,"Ungalukku Rs.3,500 cashback kaathirukku. Petrukka UPI request-ah accept pannitu ungal PIN-ah enter pannunga.",scam,Tanglish,upi_fraud,synthetic,claude_templates_v1,S12
+TL-0209,Ungal ICICI Bank bank account 24 mani neraththula seyalizhakkum. PAN number-ai verify panna ippove indha link-ah open pannunga: http://secure-bank-login.example/a1,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S02
+TL-0210,Naalai maalai 5 manikku kovilukku pogalaama? Nee-yum varriya?,legitimate,Tanglish,none,synthetic,claude_templates_v1,L18
+TL-0211,Ungal Aadhaar number innaikku lock agum. Thavirkka OTP moolama confirm pannunga: http://rewards-india.example/claim,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S26
+TL-0212,"Unga recharge Rs.25,000 successfully mudinjuchu. Validity 28 naatkal.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L09
+TL-0213,Engal VIP group-la serunga! Oru vaarathula investment-ah double pannalaam. Guaranteed profit. Sera: http://upd8-account.example/login,scam,Tanglish,investment_scam,synthetic,claude_templates_v1,S15
+TL-0214,"Indian Bank: Ungal account XX1234-la balance Rs.42,310 mattum dhaan irukku. Minimum balance maintain pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L26
+TL-0215,"Video like pannaa ovvonnukkum Rs.3,000. Mudhalla Rs.199 deposit pannunga: http://rewards-india.example/claim",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S29
+TL-0216,"Video like pannaa ovvonnukkum Rs.1,500. Mudhalla Rs.1,499 deposit pannunga: http://upd8-account.example/login",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S29
+TL-0217,"Traffic rule violation fine Rs.25,000 unga vehicle-ku vidhikkapattirukku. Official arasu website-la allathu police station-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L30
+TL-0218,"Ungal insurance premium Rs.2,000 12-Dec anru katta vendum. Auto-pay already activate aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L23
+TL-0219,School arivippu: naalai parents meeting kaalai 9 manikku nadakkum. Ellarum kalandhukkonga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L17
+TL-0220,Ungal parcel customs-la niruthi vachirukkaanga. Release panna Rs.99 fee kattungaa: http://kyc-update-india.example/verify,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S08
+TL-0221,Ungal cab driver 5 nimishathula varuvaar. OTP 538758. Trip start aagum podhu mattum driver kitta sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L20
+TL-0222,Ungal recharge Rs.499 successfully mudinjuchu. Validity 28 naatkal.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L09
+TL-0223,617979 idhu ungal login code. 10 nimishathula expire agum. Neenga ketkalena idha ignore panunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L04
+TL-0224,"Vaazhthukkal! Adhirshta kulukkalil neenga Rs.25,000 parisu jeichirukkeenga. Parisai petrukka indrae inge register pannunga: http://rewards-india.example/claim",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S03
+TL-0225,"Unga courier-ah deliver panna mudiyala. Address thappu. Rs.1,499 redelivery fee kattunga: http://kyc-update-india.example/verify",scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S09
+TL-0226,"Anbulla vaadikkaiyaalarae, ungal Canara Bank account-oda KYC update aagala. Innaiku iravukkulla update pannalena account block agum. Udanae update panna: http://rewards-india.example/claim",scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S01
+TL-0227,Free 3 month recharge offer! Innaiku mattum. Unga number-ai enter pannitu PIN-ah confirm pannunga: http://kyc-update-india.example/verify,scam,Tanglish,recharge_scam,synthetic,claude_templates_v1,S27
+TL-0228,"SBI: Ungal loan EMI Rs.25,000 varum 12-Dec anru debit aagum. Podhumaana balance maintain pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L08
+TL-0229,Free 3 month recharge offer! Inniku mattum. Unga number-ai enter pannitu PIN-ah confirm panunga: http://secure-bank-login.example/a1,scam,Tanglish,recharge_scam,synthetic,claude_templates_v1,S27
+TL-0230,"Unga order cancel aanadhaal Rs.12,500 5-7 working days-la ungal original account-ku thirumbi varum.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L22
+TL-0231,"Veettulaye velai! Dhinamum Rs.1,500 sambaadhikkalaam. Registration fee Rs.499 mattum. WhatsApp-la contact pannunga: +91-8XXXXXXXXX",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S10
+TL-0232,"Veettulaye velai! Dhinamum Rs.5,000 sambaadhikkalaam. Registration fee Rs.1,499 mattum. WhatsApp-la contact pannungaa: +91-8XXXXXXXXX",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S10
+TL-0233,"Ungal mobile number Rs.10,00,000 lucky draw-la select aagirukku. Parisu thogaiya petrukka processing fee Rs.199 kattunga: http://rewards-india.example/claim",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S04
+TL-0234,TNEB arivippu: nilaiyil ulla current bill kattaathathaala inniku iravu 9.30-kku unga current connection cut aagum. Udane call pannunga: +91-8XXXXXXXXX,scam,Tanglish,utility_threat,synthetic,claude_templates_v1,S07
+TL-0235,"Axis Bank echcharikkai: Ungal PIN, OTP, CVV edhaiyum yaarkittayum share panna vendam. Sandhegam irundhaa card-oda pinnaadi irukkira number-ku call panunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L12
+TL-0236,"ICICI Bank: Ungal account XX9021-la balance Rs.42,310 mattum dhaan irukku. Minimum balance maintain pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L26
+TL-0237,Ungal Indian Bank bank account 24 mani neraththula seyalizhakkum. PAN number-ai verify panna ippo indha link-ah open pannunga: http://bit-lnk.example/x7Kp,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S02
+TL-0238,IOB security team: ungal account-la sandhegamaana transaction. Thadukka ungalukku vandha OTP-ai udan indha number-ku sollunga: +91-7XXXXXXXXX,scam,Tanglish,otp_request,synthetic,claude_templates_v1,S05
+TL-0239,Ungal train ticket confirm aayiduchu. PNR 832060385. Payana thedhi 12-Dec. Iniya payanam!,legitimate,Tanglish,none,synthetic,claude_templates_v1,L11
+TL-0240,Ungal indraiya daily 1.5GB data limit-la 90% use aayiduchu. Nalai renew aagum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L29
+TL-0241,"Ungal order cancel aanadhaal Rs.25,000 5-7 working days-la unga original account-ku thirumbi varum.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L22
+TL-0242,"Amma, en number maariduchu. Avasaramaa Rs.499 anuppa mudiyuma? Indha UPI number-ku anuppunga: +91-7XXXXXXXXX",scam,Tanglish,relative_emergency,synthetic,claude_templates_v1,S19
+TL-0243,"Arasu education scholarship Rs.50,000 ungalukku sanction aagirukku. Petrukka bank number matrum ATM PIN submit pannunga: http://secure-bank-login.example/a1",scam,Tanglish,scholarship_scam,synthetic,claude_templates_v1,S23
+TL-0244,Ungal Aadhaar number innaiku lock agum. Thavirkka OTP moolama confirm pannungaa: http://secure-bank-login.example/a1,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S26
+TL-0245,"IOB echcharikkai: Ungal PIN, OTP, CVV edhaiyum yaarkittayum share panna vendaam. Sandhegam irundhaa card-oda pinnaadi irukkira number-ku call panunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L12
+TL-0246,"Income Tax department: ungalukku Rs.1,250 tax refund sanction aagirukku. Bank details submit panna: http://upd8-account.example/login",scam,Tanglish,tax_refund,synthetic,claude_templates_v1,S17
+TL-0247,"Neenga UPI moolama Rs.1,250 anuppirukkeenga. Transaction number 996065307. Ungalodadhu illainaa udane bank-ah anugunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L14
+TL-0248,Axis Bank: Unga KYC documents-ah arugil ulla branch-la neril update pannalaam. Endha link-ayum open panna vendaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L13
+TL-0249,"Deepavali special gift! Rs.50,000 value gift voucher free. Ippave petrukka: http://secure-bank-login.example/a1",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S24
+TL-0250,"Unga mobile number Rs.2,50,000 lucky draw-la select aagirukku. Parisu thogaiya petrukka processing fee Rs.1,499 kattungaa: http://secure-bank-login.example/a1",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S04
+TL-0251,"Ungalukku Rs.1,00,000 loan instant approval! Documents thevai illa. Mudhalla insurance fee Rs.2,999 kattungaa: http://bit-lnk.example/x7Kp",scam,Tanglish,loan_fee,synthetic,claude_templates_v1,S11
+TL-0252,HDFC Bank security team: ungal account-la sandhegamaana transaction. Thadukka ungalukku vandha OTP-ai udanae indha number-ku solunga: +91-8XXXXXXXXX,scam,Tanglish,otp_request,synthetic,claude_templates_v1,S05
+TL-0253,"Ungal order-ku Rs.25,000 refund petrukka, anuppina 6 digit OTP-ai engalukku share pannunga.",scam,Tanglish,otp_request,synthetic,claude_templates_v1,S06
+TL-0254,"Current bill Rs.7,800 20-Dec-kkulla katta vendum. Official app allathu office-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L16
+TL-0255,"IOB: Ungal account XX9021-la irundhu Rs.7,800 debit aagirukku. Balance Rs.42,310.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L01
+TL-0256,"Ungal recharge Rs.3,500 successfully mudinjuchu. Validity 28 naatkal.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L09
+TL-0257,HDFC Bank: Ungal KYC documents-ah arugil ulla branch-la neril update pannalaam. Endha link-ayum open panna vendaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L13
+TL-0258,Thavaruthalaa ungal account-ku Rs.499 anuppiten. Dayavu senju thirumba anuppunga: +91-8XXXXXXXXX,scam,Tanglish,wrong_transfer,synthetic,claude_templates_v1,S20
+TL-0259,"HDFC Bank: Ungal account XX1234-la balance Rs.18,900 mattum dhaan irukku. Minimum balance maintain pannungaa.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L26
+TL-0260,"Ungal insurance premium Rs.12,500 5-Jan anru katta vendum. Auto-pay already activate aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L23
+TL-0261,Ungal cylinder subsidy niruththapadum. Aadhaar link-ah confirm panna inge enter pannunga: http://bit-lnk.example/x7Kp,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S18
+TL-0262,"IOB: Unga account XX1234-la irundhu Rs.3,500 debit aagirukku. Balance Rs.5,670.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L01
+TL-0263,"Ungal insurance premium Rs.12,500 20-Dec anru katta vendum. Auto-pay already activate aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L23
+TL-0264,SBI: Ungal credit card bill Rs.499 generate aagirukku. Kadaisi thedhi 5-Jan. App-la kattalaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L21
+TL-0265,"Income Tax department: ungalukku Rs.25,000 tax refund sanction aagirukku. Bank details submit panna: http://claim-prize-now.example/win",scam,Tanglish,tax_refund,synthetic,claude_templates_v1,S17
+TL-0266,"Vanakkam, naan veliyoorlendhu ungalukku vilai uyarndha parisu anuppirukken. Airport fee Rs.199 kattinaa kidaikkum: +91-9XXXXXXXXX",scam,Tanglish,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TL-0267,"Indian Bank: Ungal account XX4410-la balance Rs.5,670 mattum dhaan irukku. Minimum balance maintain panunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L26
+TL-0268,"Ungalukku Rs.25,000 cashback kaathirukku. Petrukka UPI request-ah accept pannitu ungal PIN-ah enter pannunga.",scam,Tanglish,upi_fraud,synthetic,claude_templates_v1,S12
+TL-0269,"Amma, en number maariduchu. Avasaramaa Rs.499 anuppa mudiyuma? Indha UPI number-ku anuppunga: +91-8XXXXXXXXX",scam,Tanglish,relative_emergency,synthetic,claude_templates_v1,S19
+TL-0270,Unga interview 12-Dec anru kaalai 11 manikku nadakkum. ID card-oda vaanga. Edhuvum fee ila.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L25
+TL-0271,"SBI: Unga account XX1234-la Rs.2,000 credit aagirukku. Ippodhaiya balance Rs.1,240.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L02
+TL-0272,"Ungal insurance maturity amount Rs.10,00,000 ready-aa irukku. Petrukka processing fee Rs.1,499 kattungaa: http://bit-lnk.example/x7Kp",scam,Tanglish,insurance_scam,synthetic,claude_templates_v1,S30
+TL-0273,Engal VIP group-la serunga! Oru vaarathula investment-ah double pannalaam. Guaranteed profit. Sera: http://rewards-india.example/claim,scam,Tanglish,investment_scam,synthetic,claude_templates_v1,S15
+TL-0274,"Vanakkam, naan veliyoorlendhu ungalukku vilai uyarndha parisu anuppirukken. Airport fee Rs.2,999 kattinaa kidaikkum: +91-7XXXXXXXXX",scam,Tanglish,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TL-0275,"Anbulla vaadikkaiyaalarae, ungal Canara Bank account-oda KYC update aagala. Innaiku iravukkulla update pannalena account block agum. Udanae update panna: http://claim-prize-now.example/win",scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S01
+TL-0276,Ungal cylinder subsidy niruththapadum. Aadhaar link-ah confirm panna inge enter pannungaa: http://claim-prize-now.example/win,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S18
+TL-0277,"Canara Bank: Unga account XX9021-la balance Rs.5,670 mattum dhaan irukku. Minimum balance maintain pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L26
+TL-0278,"HDFC Bank: Ungal account XX4410-la irundhu Rs.3,500 debit aagirukku. Balance Rs.42,310.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L01
+TL-0279,Ungal train ticket confirm aayiduchu. PNR 557431329. Payana thedhi 12-Dec. Iniya payanam!,legitimate,Tanglish,none,synthetic,claude_templates_v1,L11
+TL-0280,"Arasu education scholarship Rs.2,50,000 ungalukku sanction aagirukku. Petrukka bank number matrum ATM PIN submit pannunga: http://bit-lnk.example/x7Kp",scam,Tanglish,scholarship_scam,synthetic,claude_templates_v1,S23
+TL-0281,622660 idhu ungal login code. 10 nimishathula expire aagum. Neenga ketkalena idha ignore pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L04
+TL-0282,Ungal order innaiku maalai 6 manikkulla deliver aagum. Delivery person varumbodhu order number 914858078 sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L05
+TL-0283,"Anbulla vaadikkaiyaalarae, ungal HDFC Bank account-oda KYC update aagala. Innaiku iravukkulla update pannalena account block aagum. Udanae update panna: http://claim-prize-now.example/win",scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S01
+TL-0284,Neenga UPI moolama Rs.499 anuppirukkeenga. Transaction number 544471324. Ungalodadhu illainaa udane bank-ah anugunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L14
+TL-0285,982507 idhu ungal login code. 10 nimishathula expire aagum. Neenga ketkalena idha ignore pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L04
+TL-0286,Ungal Indian Bank reward points petrukka indha app-ah install pannunga: http://bit-lnk.example/x7Kp. Install panna aprom permissions-ah accept panunga.,scam,Tanglish,fake_app,synthetic,claude_templates_v1,S21
+TL-0287,"Ungal Axis Bank account-la Rs.7,800 transaction nadandhirukku. Neenga seiyalena cancel panna udan ungal card number-ai enter pannunga: http://rewards-india.example/claim",scam,Tanglish,card_phishing,synthetic,claude_templates_v1,S25
+TL-0288,"Traffic rule violation fine Rs.1,250 ungal vehicle-ku vidhikkapattirukku. Official arasu website-la allathu police station-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L30
+TL-0289,"Indian Bank: Ungal loan EMI Rs.7,800 varum 5-Jan anru debit aagum. Podhumaana balance maintain pannungaa.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L08
+TL-0290,"Anbulla vaadikkaiyaalarae, ungal Indian Bank account-oda KYC update aagala. Innaiku iravukkulla update pannalena account block aagum. Udan update panna: http://kyc-update-india.example/verify",scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S01
+TL-0291,"Anbulla vaadikkaiyaalarae, ungal ICICI Bank account-oda KYC update aagala. Inniku iravukkulla update pannalena account block aagum. Udanae update panna: http://kyc-update-india.example/verify",scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S01
+TL-0292,"Arasu education scholarship Rs.50,000 ungalukku sanction aagirukku. Petrukka bank number matrum ATM PIN submit pannunga: http://rewards-india.example/claim",scam,Tanglish,scholarship_scam,synthetic,claude_templates_v1,S23
+TL-0293,"ICICI Bank: Unga credit card bill Rs.1,250 generate aagirukku. Kadaisi thedhi 15-Dec. App-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L21
+TL-0294,"Thavaruthalaa ungal account-ku Rs.2,000 anuppiten. Dayavu senju thirumba anuppunga: +91-7XXXXXXXXX",scam,Tanglish,wrong_transfer,synthetic,claude_templates_v1,S20
+TL-0295,Ungal cylinder booking confirm aayiduchu. Delivery code 899757113. 2-3 naatkalil deliver aagum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L24
+TL-0296,Free 3 month recharge offer! Innaiku mattum. Ungal number-ai enter pannitu PIN-ah confirm pannungaa: http://bit-lnk.example/x7Kp,scam,Tanglish,recharge_scam,synthetic,claude_templates_v1,S27
+TL-0297,"Arasu education scholarship Rs.2,50,000 ungalukku sanction aagirukku. Petrukka bank number matrum ATM PIN submit panunga: http://secure-bank-login.example/a1",scam,Tanglish,scholarship_scam,synthetic,claude_templates_v1,S23
+TL-0298,Ungal cab driver 5 nimishathula varuvaar. OTP 544432. Trip start agum podhu mattum driver kitta sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L20
+TL-0299,"Ungal order-ku Rs.7,800 refund petrukka, anuppina 6 digit OTP-ai engalukku share pannunga.",scam,Tanglish,otp_request,synthetic,claude_templates_v1,S06
+TL-0300,Pudhu device-la ungal account-la login nadandhirukku. Neenga illainaa app-la password-ah maathunga. Link-ah open panna vendaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L27
+TL-0301,"Unga sambalam Rs.2,000 XX5678 account-la credit aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L15
+TL-0302,Ungal order innaiku maalai 6 manikkulla deliver aagum. Delivery person varumbodhu order number 859696915 solunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L05
+TL-0303,Ungal Aadhaar number innaiku lock agum. Thavirkka OTP moolama confirm panunga: http://upd8-account.example/login,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S26
+TL-0304,Ungal cab driver 5 nimishathula varuvaar. OTP 534655. Trip start aagum podhu mattum driver kitta solunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L20
+TL-0305,"Ungal recharge Rs.1,250 successfully mudinjuchu. Validity 28 naatkal.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L09
+TL-0306,"Indian Bank: Ungal credit card bill Rs.3,500 generate aagirukku. Kadaisi thedhi 5-Jan. App-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L21
+TL-0307,"Axis Bank: Unga account XX5678-la Rs.2,000 credit aagirukku. Ippodhaiya balance Rs.5,670.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L02
+TL-0308,"Indian Bank echcharikkai: Ungal PIN, OTP, CVV edhaiyum yaarkittayum share panna vendam. Sandhegam irundhaa card-oda pinnaadi irukkira number-ku call pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L12
+TL-0309,593752 idhu unga ICICI Bank transaction-ku OTP. Idhai yaarkittayum share panna vendaam. Bank staff eppavum OTP kekka maattaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L03
+TL-0310,"Neenga UPI moolama Rs.25,000 anuppirukkeenga. Transaction number 546913736. Ungalodadhu illainaa udan bank-ah anugunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L14
+TL-0311,"Neenga UPI moolama Rs.2,000 anuppirukkeenga. Transaction number 646799702. Ungalodadhu illainaa udanae bank-ah anugunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L14
+TL-0312,Ungal SIM card KYC pending-la irukku. 2 mani neraththula connection nindrudum. Ippave call panunga: +91-8XXXXXXXXX,scam,Tanglish,sim_block,synthetic,claude_templates_v1,S13
+TL-0313,"Current bill Rs.25,000 12-Dec-kkulla katta vendum. Official app allathu office-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L16
+TL-0314,"Veettulaye velai! Dhinamum Rs.1,500 sambaadhikkalaam. Registration fee Rs.999 mattum. WhatsApp-la contact pannungaa: +91-8XXXXXXXXX",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S10
+TL-0315,Ungal interview 15-Dec anru kaalai 11 manikku nadakkum. ID card-oda vaanga. Edhuvum fee ila.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L25
+TL-0316,"Ungal order cancel aanadhaal Rs.2,000 5-7 working days-la ungal original account-ku thirumbi varum.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L22
+TL-0317,Ungal ICICI Bank reward points petrukka indha app-ah install panunga: http://rewards-india.example/claim. Install panna aprom permissions-ah accept pannunga.,scam,Tanglish,fake_app,synthetic,claude_templates_v1,S21
+TL-0318,"Ungal recharge Rs.12,500 successfully mudinjuchu. Validity 28 naatkal.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L09
+TL-0319,610143 idhu ungal login code. 10 nimishathula expire aagum. Neenga ketkalena idha ignore pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L04
+TL-0320,238282 idhu ungal login code. 10 nimishathula expire aagum. Neenga ketkalena idha ignore pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L04
+TL-0321,"Deepavali special gift! Rs.2,50,000 value gift voucher free. Ippove petrukka: http://rewards-india.example/claim",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S24
+TL-0322,Ungal Aadhaar number innaiku lock aagum. Thavirkka OTP moolama confirm pannunga: http://kyc-update-india.example/verify,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S26
+TL-0323,"Vaazhthukkal! Adhirshta kulukkalil neenga Rs.25,000 parisu jeichirukkeenga. Parisai petrukka indrae inge register pannunga: http://kyc-update-india.example/verify",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S03
+TL-0324,Ungal HDFC Bank bank account 24 mani neraththula seyalizhakkum. PAN number-ai verify panna ippove indha link-ah open pannunga: http://rewards-india.example/claim,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S02
+TL-0325,"Ungalukku Rs.1,250 cashback kaathirukku. Petrukka UPI request-ah accept pannitu ungal PIN-ah enter pannungaa.",scam,Tanglish,upi_fraud,synthetic,claude_templates_v1,S12
+TL-0326,HDFC Bank: Ungal loan EMI Rs.499 varum 20-Dec anru debit agum. Podhumaana balance maintain pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L08
+TL-0327,"Veettulaye velai! Dhinamum Rs.3,000 sambaadhikkalaam. Registration fee Rs.999 mattum. WhatsApp-la contact pannungaa: +91-8XXXXXXXXX",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S10
+TL-0328,Ungal cylinder booking confirm aayiduchu. Delivery code 287721753. 2-3 naatkalil deliver aagum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L24
+TL-0329,"Current bill Rs.7,800 12-Dec-kkulla katta vendum. Official app allathu office-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L16
+TL-0330,"Canara Bank: Unga account XX1234-la Rs.499 credit aagirukku. Ippodhaiya balance Rs.18,900.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L02
+TL-0331,Ungal ICICI Bank reward points petrukka indha app-ah install pannunga: http://upd8-account.example/login. Install panna aprom permissions-ah accept pannunga.,scam,Tanglish,fake_app,synthetic,claude_templates_v1,S21
+TL-0332,"Amma, en number maariduchu. Avasaramaa Rs.2,000 anuppa mudiyuma? Indha UPI number-ku anuppunga: +91-7XXXXXXXXX",scam,Tanglish,relative_emergency,synthetic,claude_templates_v1,S19
+TL-0333,Ungal cylinder subsidy niruththapadum. Aadhaar link-ah confirm panna inge enter pannunga: http://rewards-india.example/claim,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S18
+TL-0334,"Arasu education scholarship Rs.25,000 ungalukku sanction aagirukku. Petrukka bank number matrum ATM PIN submit pannunga: http://bit-lnk.example/x7Kp",scam,Tanglish,scholarship_scam,synthetic,claude_templates_v1,S23
+TL-0335,"Video like pannaa ovvonnukkum Rs.3,000. Mudhalla Rs.199 deposit pannunga: http://upd8-account.example/login",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S29
+TL-0336,IOB: Ungal credit card bill Rs.499 generate aagirukku. Kadaisi thedhi 15-Dec. App-la kattalaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L21
+TL-0337,"Ungal order-ku Rs.1,250 refund petrukka, anuppina 6 digit OTP-ai engalukku share pannunga.",scam,Tanglish,otp_request,synthetic,claude_templates_v1,S06
+TL-0338,"Ungalukku Rs.50,000 loan instant approval! Documents thevai ila. Mudhalla insurance fee Rs.199 kattungaa: http://secure-bank-login.example/a1",scam,Tanglish,loan_fee,synthetic,claude_templates_v1,S11
+TL-0339,"Current bill Rs.3,500 12-Dec-kkulla katta vendum. Official app allathu office-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L16
+TL-0340,"Thavaruthalaa ungal account-ku Rs.25,000 anuppiten. Dayavu senju thirumba anuppunga: +91-7XXXXXXXXX",scam,Tanglish,wrong_transfer,synthetic,claude_templates_v1,S20
+TL-0341,Ungal parcel customs-la niruthi vachirukkaanga. Release panna Rs.499 fee kattunga: http://bit-lnk.example/x7Kp,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S08
+TL-0342,"Unga order-ku Rs.12,500 refund petrukka, anuppina 6 digit OTP-ai engalukku share pannunga.",scam,Tanglish,otp_request,synthetic,claude_templates_v1,S06
+TL-0343,"Axis Bank: Unga loan EMI Rs.12,500 varum 20-Dec anru debit aagum. Podhumaana balance maintain pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L08
+TL-0344,"Ungal insurance premium Rs.3,500 5-Jan anru katta vendum. Auto-pay already activate aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L23
+TL-0345,Unga HDFC Bank bank account 24 mani neraththula seyalizhakkum. PAN number-ai verify panna ippo indha link-ah open panunga: http://secure-bank-login.example/a1,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S02
+TL-0346,"Ungal mobile number Rs.5,00,000 lucky draw-la select aagirukku. Parisu thogaiya petrukka processing fee Rs.99 kattunga: http://rewards-india.example/claim",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S04
+TL-0347,Unga train ticket confirm aayiduchu. PNR 038657191. Payana thedhi 15-Dec. Iniya payanam!,legitimate,Tanglish,none,synthetic,claude_templates_v1,L11
+TL-0348,751401 idhu ungal login code. 10 nimishathula expire aagum. Neenga ketkalena idha ignore pannunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L04
+TL-0349,SBI security team: ungal account-la sandhegamaana transaction. Thadukka ungalukku vandha OTP-ai udanae indha number-ku sollunga: +91-7XXXXXXXXX,scam,Tanglish,otp_request,synthetic,claude_templates_v1,S05
+TL-0350,TNEB arivippu: nilaiyil ulla current bill kattaathathaala innaiku iravu 9.30-kku ungal current connection cut agum. Udanae call pannunga: +91-9XXXXXXXXX,scam,Tanglish,utility_threat,synthetic,claude_templates_v1,S07
+TL-0351,Ungal parcel customs-la niruthi vachirukkaanga. Release panna Rs.199 fee katunga: http://bit-lnk.example/x7Kp,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S08
+TL-0352,"Video like pannaa ovvonnukkum Rs.1,500. Mudhalla Rs.2,999 deposit pannunga: http://secure-bank-login.example/a1",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S29
+TL-0353,Ungal cylinder booking confirm aayiduchu. Delivery code 994883755. 2-3 naatkalil deliver agum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L24
+TL-0354,"Ungal SBI credit card reward points Rs.3,500 innaiku expire aagum. Ippave cash-aa maatha: http://bit-lnk.example/x7Kp",scam,Tanglish,reward_points,synthetic,claude_templates_v1,S16
+TL-0355,Traffic rule violation fine Rs.499 unga vehicle-ku vidhikkapattirukku. Official arasu website-la allathu police station-la kattalaam.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L30
+TL-0356,"Amma, en number maariduchu. Avasaramaa Rs.25,000 anuppa mudiyuma? Indha UPI number-ku anuppunga: +91-9XXXXXXXXX",scam,Tanglish,relative_emergency,synthetic,claude_templates_v1,S19
+TL-0357,"Indian Bank: Ungal credit card bill Rs.2,000 generate aagirukku. Kadaisi thedhi 15-Dec. App-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L21
+TL-0358,Ungal cylinder subsidy niruththapadum. Aadhaar link-ah confirm panna inge enter pannunga: http://upd8-account.example/login,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S18
+TL-0359,Ungal courier-ah deliver panna mudiyala. Address thappu. Rs.999 redelivery fee kattungaa: http://bit-lnk.example/x7Kp,scam,Tanglish,parcel_fee,synthetic,claude_templates_v1,S09
+TL-0360,Ungal ICICI Bank bank account 24 mani neraththula seyalizhakkum. PAN number-ai verify panna ippove indha link-ah open pannungaa: http://bit-lnk.example/x7Kp,scam,Tanglish,fake_kyc,synthetic,claude_templates_v1,S02
+TL-0361,Cyber crime branch: ungal Aadhaar number illegal activity-la use aagirukku. Arrest-ah thavirkka udanae indha number-ku call pannunga: +91-7XXXXXXXXX,scam,Tanglish,authority_impersonation,synthetic,claude_templates_v1,S14
+TL-0362,"Ungalukku Rs.2,000 cashback kaathirukku. Petrukka UPI request-ah accept pannitu unga PIN-ah enter pannunga.",scam,Tanglish,upi_fraud,synthetic,claude_templates_v1,S12
+TL-0363,"Ungal insurance maturity amount Rs.10,00,000 ready-aa irukku. Petrukka processing fee Rs.499 kattungaa: http://rewards-india.example/claim",scam,Tanglish,insurance_scam,synthetic,claude_templates_v1,S30
+TL-0364,464715 idhu ungal Axis Bank transaction-ku OTP. Idhai yaarkittayum share panna vendaam. Bank staff eppavum OTP kekka maattaanga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L03
+TL-0365,"HDFC Bank: Ungal loan EMI Rs.12,500 varum 5-Jan anru debit aagum. Podhumaana balance maintain panunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L08
+TL-0366,"Neenga UPI moolama Rs.3,500 anuppirukkeenga. Transaction number 854870998. Ungalodadhu illainaa udanae bank-ah anugunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L14
+TL-0367,Free 3 month recharge offer! Innaiku mattum. Ungal number-ai enter pannitu PIN-ah confirm pannungaa: http://rewards-india.example/claim,scam,Tanglish,recharge_scam,synthetic,claude_templates_v1,S27
+TL-0368,"SBI: Ungal account XX9021-la Rs.25,000 credit aagirukku. Ippodhaiya balance Rs.42,310.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L02
+TL-0369,"Thavaruthalaa unga account-ku Rs.25,000 anuppiten. Dayavu senju thirumba anuppunga: +91-9XXXXXXXXX",scam,Tanglish,wrong_transfer,synthetic,claude_templates_v1,S20
+TL-0370,"Video like pannaa ovvonnukkum Rs.1,500. Mudhalla Rs.2,999 deposit pannunga: http://kyc-update-india.example/verify",scam,Tanglish,job_scam,synthetic,claude_templates_v1,S29
+TL-0371,Ungal cab driver 5 nimishathula varuvaar. OTP 074466. Trip start aagum podhu mattum driver kitta sollunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L20
+TL-0372,"Ungal sambalam Rs.3,500 XX4410 account-la credit aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L15
+TL-0373,Thavaruthalaa unga account-ku Rs.499 anuppiten. Dayavu senju thirumba anuppunga: +91-7XXXXXXXXX,scam,Tanglish,wrong_transfer,synthetic,claude_templates_v1,S20
+TL-0374,Unga cylinder booking confirm aayiduchu. Delivery code 488510272. 2-3 naatkalil deliver aagum.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L24
+TL-0375,Ration card update: Aadhaar link pannalena ungal ration niruththapadum. Ippove inaikka: http://upd8-account.example/login,scam,Tanglish,subsidy_scam,synthetic,claude_templates_v1,S22
+TL-0376,Ungal cab driver 5 nimishathula varuvaar. OTP 099917. Trip start agum podhu mattum driver kitta solunga.,legitimate,Tanglish,none,synthetic,claude_templates_v1,L20
+TL-0377,"Deepavali special gift! Rs.50,000 value gift voucher free. Ippove petrukka: http://claim-prize-now.example/win",scam,Tanglish,prize_scam,synthetic,claude_templates_v1,S24
+TL-0378,"Arasu education scholarship Rs.2,50,000 ungalukku sanction aagirukku. Petrukka bank number matrum ATM PIN submit pannunga: http://kyc-update-india.example/verify",scam,Tanglish,scholarship_scam,synthetic,claude_templates_v1,S23
+TL-0379,"Income Tax department: ungalukku Rs.3,500 tax refund sanction aagirukku. Bank details submit panna: http://bit-lnk.example/x7Kp",scam,Tanglish,tax_refund,synthetic,claude_templates_v1,S17
+TL-0380,Ungal SBI account-la Rs.499 transaction nadandhirukku. Neenga seiyalena cancel panna udanae ungal card number-ai enter pannunga: http://secure-bank-login.example/a1,scam,Tanglish,card_phishing,synthetic,claude_templates_v1,S25
+TL-0381,Ungalukku Rs.499 cashback kaathirukku. Petrukka UPI request-ah accept pannitu ungal PIN-ah enter panunga.,scam,Tanglish,upi_fraud,synthetic,claude_templates_v1,S12
+TL-0382,"Ungal order-ku Rs.3,500 refund petrukka, anuppina 6 digit OTP-ai engalukku share pannunga.",scam,Tanglish,otp_request,synthetic,claude_templates_v1,S06
+TL-0383,SBI security team: ungal account-la sandhegamaana transaction. Thadukka ungalukku vandha OTP-ai udanae indha number-ku sollunga: +91-8XXXXXXXXX,scam,Tanglish,otp_request,synthetic,claude_templates_v1,S05
+TL-0384,"Ungal insurance maturity amount Rs.10,00,000 ready-aa irukku. Petrukka processing fee Rs.999 katunga: http://secure-bank-login.example/a1",scam,Tanglish,insurance_scam,synthetic,claude_templates_v1,S30
+TL-0385,"Canara Bank echcharikkai: Ungal PIN, OTP, CVV edhaiyum yaarkittayum share panna vendam. Sandhegam irundhaa card-oda pinnaadi irukkira number-ku call pannunga.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L12
+TL-0386,"Ungal sambalam Rs.2,000 XX1234 account-la credit aagirukku.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L15
+TL-0387,"Current bill Rs.12,500 20-Dec-kkulla katta vendum. Official app allathu office-la kattalaam.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L16
+TL-0388,"Canara Bank: Unga account XX4410-la irundhu Rs.1,250 debit aagirukku. Balance Rs.5,670.",legitimate,Tanglish,none,synthetic,claude_templates_v1,L01

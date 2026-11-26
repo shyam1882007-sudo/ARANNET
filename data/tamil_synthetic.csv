@@ -1,0 +1,389 @@
+﻿message_id,message_text,label,language_group,scam_type,source_type,source_reference,variant_group_id
+TA-0001,"உங்கள் மொபைல் எண் ரூ.25,000 லக்கி டிரா-வில் தேர்வாகியுள்ளது. பரிசுத் தொகையைப் பெற செயலாக்கக் கட்டணம் ரூ.499 செலுத்தவும்: http://secure-bank-login.example/a1",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S04
+TA-0002,"வருமான வரித் துறை: உங்களுக்கு ரூ.1,250 வரித் திரும்பப் பெறுதல் அனுமதிக்கப்பட்டுள்ளது. வங்கி விவரங்களைச் சமர்ப்பிக்க: http://upd8-account.example/login",scam,Tamil,tax_refund,synthetic,claude_templates_v1,S17
+TA-0003,"உங்கள் மின் கட்டணம் ரூ.25,000 வெற்றிகரமாகச் செலுத்தப்பட்டது. ரசீது எண் 750017012. நன்றி.",legitimate,Tamil,none,synthetic,claude_templates_v1,L07
+TA-0004,"வருமான வரித் துறை: உங்களுக்கு ரூ.25,000 வரித் திரும்பப் பெறுதல் அனுமதிக்கப்பட்டுள்ளது. வங்கி விவரங்களைச் சமர்ப்பிக்க: http://claim-prize-now.example/win",scam,Tamil,tax_refund,synthetic,claude_templates_v1,S17
+TA-0005,"Canara Bank: உங்கள் கணக்கு XX1234-ல் ரூ.499 வரவு வைக்கப்பட்டது. தற்போதைய இருப்பு ரூ.18,900.",legitimate,Tamil,none,synthetic,claude_templates_v1,L02
+TA-0006,உங்கள் ரயில் டிக்கெட் உறுதி செய்யப்பட்டது. PNR 641383670. பயணத் தேதி 15-Dec. இனிய பயணம்!,legitimate,Tamil,none,synthetic,claude_templates_v1,L11
+TA-0007,"உங்கள் காப்பீட்டுத் தவணை ரூ.12,500 20-Dec அன்று செலுத்த வேண்டும். ஆட்டோ-பே ஏற்கனவே செயல்படுத்தப்பட்டுள்ளது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L23
+TA-0008,"Canara Bank: உங்கள் கணக்கு XX4410-ல் ரூ.3,500 வரவு வைக்கப்பட்டது. தற்போதைய இருப்பு ரூ.42,310.",legitimate,Tamil,none,synthetic,claude_templates_v1,L02
+TA-0009,"போக்குவரத்து விதிமீறல் அபராதம் ரூ.2,000 உங்கள் வாகனத்திற்கு விதிக்கப்பட்டுள்ளது. அதிகாரப்பூர்வ அரசு இணையதளத்தில் அல்லது காவல் நிலையத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L30
+TA-0010,சைபர் குற்றப் பிரிவு: உங்கள் ஆதார் எண் சட்டவிரோத நடவடிக்கையில் பயன்படுத்தப்பட்டுள்ளது. கைதைத் தவிர்க்க உடனே இந்த எண்ணை அழைக்கவும்: +91-8XXXXXXXXX,scam,Tamil,authority_impersonation,synthetic,claude_templates_v1,S14
+TA-0011,"வணக்கம், நான் வெளிநாட்டிலிருந்து உங்களுக்கு விலையுயர்ந்த பரிசு அனுப்பியுள்ளேன். விமான நிலையக் கட்டணம் ரூ.1,499 செலுத்தினால் கிடைக்கும்: +91-7XXXXXXXXX",scam,Tamil,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TA-0012,உங்கள் காப்பீட்டுத் தவணை ரூ.499 12-Dec அன்று செலுத்த வேண்டும். ஆட்டோ-பே ஏற்கனவே செயல்படுத்தப்பட்டுள்ளது.,legitimate,Tamil,none,synthetic,claude_templates_v1,L23
+TA-0013,617979 உங்கள் உள்நுழைவுக் குறியீடு. 10 நிமிடங்களில் காலாவதியாகும். நீங்கள் கேட்கவில்லை என்றால் இதைப் புறக்கணிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L04
+TA-0014,உங்கள் HDFC Bank வங்கிக் கணக்கு 24 மணி நேரத்தில் செயலிழக்கும். PAN எண்ணைச் சரிபார்க்க இப்போதே இந்த இணைப்பைத் திறக்கவும்: http://rewards-india.example/claim,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S02
+TA-0015,தவறுதலாக உங்கள் கணக்கிற்கு ரூ.499 அனுப்பிவிட்டேன். தயவுசெய்து திரும்ப அனுப்புங்கள்: +91-7XXXXXXXXX,scam,Tamil,wrong_transfer,synthetic,claude_templates_v1,S20
+TA-0016,உங்கள் HDFC Bank வங்கிக் கணக்கு 24 மணி நேரத்தில் செயலிழக்கும். PAN எண்ணைச் சரிபார்க்க இப்போதே இந்த இணைப்பைத் திறக்கவும்: http://bit-lnk.example/x7Kp,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S02
+TA-0017,உங்கள் நேர்காணல் 20-Dec அன்று காலை 11 மணிக்கு நடைபெறும். அடையாள அட்டையுடன் வரவும். கட்டணம் எதுவும் இல்லை.,legitimate,Tamil,none,synthetic,claude_templates_v1,L25
+TA-0018,"Indian Bank: உங்கள் கிரெடிட் கார்டு பில் ரூ.2,000 உருவாக்கப்பட்டது. கடைசி தேதி 15-Dec. ஆப்-ல் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L21
+TA-0019,"Axis Bank: உங்கள் கடன் தவணை ரூ.25,000 வரும் 15-Dec அன்று பற்று வைக்கப்படும். போதுமான இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L08
+TA-0020,"தீபாவளி சிறப்புப் பரிசு! ரூ.50,000 மதிப்புள்ள கிஃப்ட் வவுச்சர் இலவசம். இப்போதே பெற: http://kyc-update-india.example/verify",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S24
+TA-0021,"உங்கள் Canara Bank கிரெடிட் கார்டு ரிவார்டு புள்ளிகள் ரூ.3,500 இன்று காலாவதியாகும். இப்போதே பணமாக மாற்ற: http://bit-lnk.example/x7Kp",scam,Tamil,reward_points,synthetic,claude_templates_v1,S16
+TA-0022,ரேஷன் கார்டு புதுப்பிப்பு: ஆதார் இணைக்காவிட்டால் உங்கள் ரேஷன் நிறுத்தப்படும். இப்போதே இணைக்க: http://claim-prize-now.example/win,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S22
+TA-0023,"உங்கள் SBI கிரெடிட் கார்டு ரிவார்டு புள்ளிகள் ரூ.3,500 இன்று காலாவதியாகும். இப்போதே பணமாக மாற்ற: http://bit-lnk.example/x7Kp",scam,Tamil,reward_points,synthetic,claude_templates_v1,S16
+TA-0024,உங்கள் வாடகை வாகன ஓட்டுநர் 5 நிமிடத்தில் வருவார். OTP 899441. பயணம் தொடங்கும்போது மட்டும் ஓட்டுநரிடம் சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L20
+TA-0025,"அரசு கல்வி உதவித்தொகை ரூ.2,50,000 உங்களுக்கு அனுமதிக்கப்பட்டுள்ளது. பெற வங்கி எண் மற்றும் ATM PIN சமர்ப்பிக்கவும்: http://kyc-update-india.example/verify",scam,Tamil,scholarship_scam,synthetic,claude_templates_v1,S23
+TA-0026,உங்கள் ஆதார் எண் இன்று முடக்கப்படும். தவிர்க்க OTP மூலம் உறுதிப்படுத்தவும்: http://rewards-india.example/claim,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S26
+TA-0027,"உங்கள் தபால் பொருளை வழங்க முடியவில்லை. முகவரி தவறானது. ரூ.1,499 மறுவிநியோகக் கட்டணம் செலுத்தவும்: http://kyc-update-india.example/verify",scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S09
+TA-0028,"IOB: உங்கள் கணக்கு எண் XX4410-ல் இருந்து ரூ.1,250 பற்று வைக்கப்பட்டது. இருப்பு ரூ.5,670.",legitimate,Tamil,none,synthetic,claude_templates_v1,L01
+TA-0029,"அம்மா, என் எண் மாறிவிட்டது. அவசரமாக ரூ.3,500 அனுப்ப முடியுமா? இந்த UPI எண்ணுக்கு அனுப்பவும்: +91-8XXXXXXXXX",scam,Tamil,relative_emergency,synthetic,claude_templates_v1,S19
+TA-0030,Axis Bank பாதுகாப்புத் துறை: உங்கள் கணக்கில் சந்தேகத்திற்குரிய பரிவர்த்தனை. தடுக்க உங்களுக்கு வந்த OTP-ஐ உடனே இந்த எண்ணில் தெரிவிக்கவும்: +91-9XXXXXXXXX,scam,Tamil,otp_request,synthetic,claude_templates_v1,S05
+TA-0031,இலவச 3 மாத ரீசார்ஜ் சலுகை! இன்று மட்டும். உங்கள் எண்ணை உள்ளிட்டு PIN-ஐ உறுதிப்படுத்தவும்: http://kyc-update-india.example/verify,scam,Tamil,recharge_scam,synthetic,claude_templates_v1,S27
+TA-0032,"அரசு கல்வி உதவித்தொகை ரூ.5,00,000 உங்களுக்கு அனுமதிக்கப்பட்டுள்ளது. பெற வங்கி எண் மற்றும் ATM PIN சமர்ப்பிக்கவும்: http://claim-prize-now.example/win",scam,Tamil,scholarship_scam,synthetic,claude_templates_v1,S23
+TA-0033,"வீடியோவை லைக் செய்தால் ஒவ்வொன்றுக்கும் ரூ.1,500. முதலில் ரூ.2,999 டெபாசிட் செய்யவும்: http://kyc-update-india.example/verify",scam,Tamil,job_scam,synthetic,claude_templates_v1,S29
+TA-0034,IOB பாதுகாப்புத் துறை: உங்கள் கணக்கில் சந்தேகத்திற்குரிய பரிவர்த்தனை. தடுக்க உங்களுக்கு வந்த OTP-ஐ உடனே இந்த எண்ணில் தெரிவிக்கவும்: +91-7XXXXXXXXX,scam,Tamil,otp_request,synthetic,claude_templates_v1,S05
+TA-0035,"வாழ்த்துகள்! அதிர்ஷ்டக் குலுக்கலில் நீங்கள் ரூ.2,50,000 பரிசு வென்றுள்ளீர்கள். பரிசைப் பெற இன்றே இங்கே பதிவு செய்யுங்கள்: http://rewards-india.example/claim",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S03
+TA-0036,"உங்கள் மொபைல் எண் ரூ.2,50,000 லக்கி டிரா-வில் தேர்வாகியுள்ளது. பரிசுத் தொகையைப் பெற செயலாக்கக் கட்டணம் ரூ.1,499 செலுத்தவும்: http://secure-bank-login.example/a1",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S04
+TA-0037,"உங்கள் காப்பீட்டுத் தவணை ரூ.2,000 12-Dec அன்று செலுத்த வேண்டும். ஆட்டோ-பே ஏற்கனவே செயல்படுத்தப்பட்டுள்ளது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L23
+TA-0038,"வீடியோவை லைக் செய்தால் ஒவ்வொன்றுக்கும் ரூ.5,000. முதலில் ரூ.999 டெபாசிட் செய்யவும்: http://upd8-account.example/login",scam,Tamil,job_scam,synthetic,claude_templates_v1,S29
+TA-0039,"Indian Bank: உங்கள் கணக்கு XX4410-ல் இருப்பு ரூ.5,670 மட்டுமே உள்ளது. குறைந்தபட்ச இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L26
+TA-0040,உங்கள் HDFC Bank வங்கிக் கணக்கு 24 மணி நேரத்தில் செயலிழக்கும். PAN எண்ணைச் சரிபார்க்க இப்போதே இந்த இணைப்பைத் திறக்கவும்: http://secure-bank-login.example/a1,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S02
+TA-0041,SBI: உங்கள் கிரெடிட் கார்டு பில் ரூ.499 உருவாக்கப்பட்டது. கடைசி தேதி 5-Jan. ஆப்-ல் செலுத்தலாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L21
+TA-0042,உங்கள் ICICI Bank ரிவார்டு புள்ளிகளைப் பெற இந்த ஆப்-ஐ நிறுவவும்: http://rewards-india.example/claim. நிறுவிய பின் அனுமதிகளை ஏற்கவும்.,scam,Tamil,fake_app,synthetic,claude_templates_v1,S21
+TA-0043,"தவறுதலாக உங்கள் கணக்கிற்கு ரூ.12,500 அனுப்பிவிட்டேன். தயவுசெய்து திரும்ப அனுப்புங்கள்: +91-8XXXXXXXXX",scam,Tamil,wrong_transfer,synthetic,claude_templates_v1,S20
+TA-0044,464715 என்பது உங்கள் Axis Bank பரிவர்த்தனைக்கான OTP. இதை யாருடனும் பகிர வேண்டாம். வங்கி ஊழியர்கள் ஒருபோதும் OTP கேட்க மாட்டார்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L03
+TA-0045,உங்கள் ஆர்டர் இன்று மாலை 6 மணிக்குள் டெலிவரி செய்யப்படும். டெலிவரி நபர் வரும்போது ஆர்டர் எண் 033419182 சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L05
+TA-0046,SBI பாதுகாப்புத் துறை: உங்கள் கணக்கில் சந்தேகத்திற்குரிய பரிவர்த்தனை. தடுக்க உங்களுக்கு வந்த OTP-ஐ உடனே இந்த எண்ணில் தெரிவிக்கவும்: +91-8XXXXXXXXX,scam,Tamil,otp_request,synthetic,claude_templates_v1,S05
+TA-0047,"உங்களுக்கு ரூ.1,00,000 கடன் உடனடி ஒப்புதல்! ஆவணங்கள் தேவையில்லை. முதலில் காப்பீட்டுக் கட்டணம் ரூ.2,999 செலுத்தவும்: http://rewards-india.example/claim",scam,Tamil,loan_fee,synthetic,claude_templates_v1,S11
+TA-0048,891135 உங்கள் உள்நுழைவுக் குறியீடு. 10 நிமிடங்களில் காலாவதியாகும். நீங்கள் கேட்கவில்லை என்றால் இதைப் புறக்கணிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L04
+TA-0049,"உங்களுக்கு ரூ.25,000 கேஷ்பேக் காத்திருக்கிறது. பெற, UPI கோரிக்கையை ஏற்று உங்கள் PIN-ஐ உள்ளிடவும்.",scam,Tamil,upi_fraud,synthetic,claude_templates_v1,S12
+TA-0050,"HDFC Bank: உங்கள் கணக்கு எண் XX9021-ல் இருந்து ரூ.7,800 பற்று வைக்கப்பட்டது. இருப்பு ரூ.1,240.",legitimate,Tamil,none,synthetic,claude_templates_v1,L01
+TA-0051,"அம்மா, நான் ஊருக்கு வந்து சேர்ந்துவிட்டேன். கவலைப்படாதீர்கள். இரவு பேசுகிறேன்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L19
+TA-0052,"வருமான வரித் துறை: உங்களுக்கு ரூ.7,800 வரித் திரும்பப் பெறுதல் அனுமதிக்கப்பட்டுள்ளது. வங்கி விவரங்களைச் சமர்ப்பிக்க: http://upd8-account.example/login",scam,Tamil,tax_refund,synthetic,claude_templates_v1,S17
+TA-0053,"தீபாவளி சிறப்புப் பரிசு! ரூ.2,50,000 மதிப்புள்ள கிஃப்ட் வவுச்சர் இலவசம். இப்போதே பெற: http://bit-lnk.example/x7Kp",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S24
+TA-0054,"உங்கள் காப்பீட்டு முதிர்வுத் தொகை ரூ.10,00,000 தயாராக உள்ளது. பெற செயலாக்கக் கட்டணம் ரூ.1,499 செலுத்தவும்: http://bit-lnk.example/x7Kp",scam,Tamil,insurance_scam,synthetic,claude_templates_v1,S30
+TA-0055,"உங்கள் Indian Bank கிரெடிட் கார்டு ரிவார்டு புள்ளிகள் ரூ.3,500 இன்று காலாவதியாகும். இப்போதே பணமாக மாற்ற: http://bit-lnk.example/x7Kp",scam,Tamil,reward_points,synthetic,claude_templates_v1,S16
+TA-0056,Canara Bank: உங்கள் KYC ஆவணங்களை அருகிலுள்ள கிளையில் நேரில் புதுப்பிக்கலாம். எந்த இணைப்பையும் திறக்க வேண்டாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L13
+TA-0057,உங்கள் ICICI Bank வங்கிக் கணக்கு 24 மணி நேரத்தில் செயலிழக்கும். PAN எண்ணைச் சரிபார்க்க இப்போதே இந்த இணைப்பைத் திறக்கவும்: http://secure-bank-login.example/a1,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S02
+TA-0058,"உங்கள் மொபைல் எண் ரூ.10,00,000 லக்கி டிரா-வில் தேர்வாகியுள்ளது. பரிசுத் தொகையைப் பெற செயலாக்கக் கட்டணம் ரூ.99 செலுத்தவும்: http://claim-prize-now.example/win",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S04
+TA-0059,"உங்களுக்கு ரூ.50,000 கடன் உடனடி ஒப்புதல்! ஆவணங்கள் தேவையில்லை. முதலில் காப்பீட்டுக் கட்டணம் ரூ.199 செலுத்தவும்: http://claim-prize-now.example/win",scam,Tamil,loan_fee,synthetic,claude_templates_v1,S11
+TA-0060,உங்கள் ICICI Bank வங்கிக் கணக்கு 24 மணி நேரத்தில் செயலிழக்கும். PAN எண்ணைச் சரிபார்க்க இப்போதே இந்த இணைப்பைத் திறக்கவும்: http://bit-lnk.example/x7Kp,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S02
+TA-0061,"உங்கள் மின் கட்டணம் ரூ.1,250 வெற்றிகரமாகச் செலுத்தப்பட்டது. ரசீது எண் 637454589. நன்றி.",legitimate,Tamil,none,synthetic,claude_templates_v1,L07
+TA-0062,"உங்களுக்கு ரூ.1,00,000 கடன் உடனடி ஒப்புதல்! ஆவணங்கள் தேவையில்லை. முதலில் காப்பீட்டுக் கட்டணம் ரூ.499 செலுத்தவும்: http://upd8-account.example/login",scam,Tamil,loan_fee,synthetic,claude_templates_v1,S11
+TA-0063,"அரசு கல்வி உதவித்தொகை ரூ.50,000 உங்களுக்கு அனுமதிக்கப்பட்டுள்ளது. பெற வங்கி எண் மற்றும் ATM PIN சமர்ப்பிக்கவும்: http://secure-bank-login.example/a1",scam,Tamil,scholarship_scam,synthetic,claude_templates_v1,S23
+TA-0064,"தீபாவளி சிறப்புப் பரிசு! ரூ.25,000 மதிப்புள்ள கிஃப்ட் வவுச்சர் இலவசம். இப்போதே பெற: http://kyc-update-india.example/verify",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S24
+TA-0065,"ICICI Bank: உங்கள் கணக்கு XX9021-ல் இருப்பு ரூ.42,310 மட்டுமே உள்ளது. குறைந்தபட்ச இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L26
+TA-0066,"உங்கள் மொபைல் எண் ரூ.2,50,000 லக்கி டிரா-வில் தேர்வாகியுள்ளது. பரிசுத் தொகையைப் பெற செயலாக்கக் கட்டணம் ரூ.99 செலுத்தவும்: http://kyc-update-india.example/verify",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S04
+TA-0067,எங்கள் VIP குழுவில் சேருங்கள்! ஒரு வாரத்தில் முதலீட்டை இரட்டிப்பாக்கலாம். உறுதியான லாபம். சேர: http://kyc-update-india.example/verify,scam,Tamil,investment_scam,synthetic,claude_templates_v1,S15
+TA-0068,"ICICI Bank: உங்கள் கிரெடிட் கார்டு பில் ரூ.1,250 உருவாக்கப்பட்டது. கடைசி தேதி 5-Jan. ஆப்-ல் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L21
+TA-0069,SBI: உங்கள் KYC ஆவணங்களை அருகிலுள்ள கிளையில் நேரில் புதுப்பிக்கலாம். எந்த இணைப்பையும் திறக்க வேண்டாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L13
+TA-0070,உங்கள் வாடகை வாகன ஓட்டுநர் 5 நிமிடத்தில் வருவார். OTP 074466. பயணம் தொடங்கும்போது மட்டும் ஓட்டுநரிடம் சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L20
+TA-0071,எங்கள் VIP குழுவில் சேருங்கள்! ஒரு வாரத்தில் முதலீட்டை இரட்டிப்பாக்கலாம். உறுதியான லாபம். சேர: http://bit-lnk.example/x7Kp,scam,Tamil,investment_scam,synthetic,claude_templates_v1,S15
+TA-0072,"உங்கள் காப்பீட்டுத் தவணை ரூ.3,500 15-Dec அன்று செலுத்த வேண்டும். ஆட்டோ-பே ஏற்கனவே செயல்படுத்தப்பட்டுள்ளது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L23
+TA-0073,"வாழ்த்துகள்! அதிர்ஷ்டக் குலுக்கலில் நீங்கள் ரூ.50,000 பரிசு வென்றுள்ளீர்கள். பரிசைப் பெற இன்றே இங்கே பதிவு செய்யுங்கள்: http://rewards-india.example/claim",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S03
+TA-0074,உங்கள் ஆர்டர் இன்று மாலை 6 மணிக்குள் டெலிவரி செய்யப்படும். டெலிவரி நபர் வரும்போது ஆர்டர் எண் 914858078 சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L05
+TA-0075,"உங்களுக்கு ரூ.3,500 கேஷ்பேக் காத்திருக்கிறது. பெற, UPI கோரிக்கையை ஏற்று உங்கள் PIN-ஐ உள்ளிடவும்.",scam,Tamil,upi_fraud,synthetic,claude_templates_v1,S12
+TA-0076,"நீங்கள் UPI மூலம் ரூ.2,000 அனுப்பியுள்ளீர்கள். பரிவர்த்தனை எண் 646799702. உங்களுடையது அல்ல என்றால் உடனே வங்கியை அணுகவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L14
+TA-0077,Axis Bank பாதுகாப்புத் துறை: உங்கள் கணக்கில் சந்தேகத்திற்குரிய பரிவர்த்தனை. தடுக்க உங்களுக்கு வந்த OTP-ஐ உடனே இந்த எண்ணில் தெரிவிக்கவும்: +91-8XXXXXXXXX,scam,Tamil,otp_request,synthetic,claude_templates_v1,S05
+TA-0078,593752 என்பது உங்கள் ICICI Bank பரிவர்த்தனைக்கான OTP. இதை யாருடனும் பகிர வேண்டாம். வங்கி ஊழியர்கள் ஒருபோதும் OTP கேட்க மாட்டார்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L03
+TA-0079,"உங்களுக்கு ரூ.2,000 கேஷ்பேக் காத்திருக்கிறது. பெற, UPI கோரிக்கையை ஏற்று உங்கள் PIN-ஐ உள்ளிடவும்.",scam,Tamil,upi_fraud,synthetic,claude_templates_v1,S12
+TA-0080,"போக்குவரத்து விதிமீறல் அபராதம் ரூ.3,500 உங்கள் வாகனத்திற்கு விதிக்கப்பட்டுள்ளது. அதிகாரப்பூர்வ அரசு இணையதளத்தில் அல்லது காவல் நிலையத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L30
+TA-0081,உங்கள் பார்சல் சுங்கத் துறையில் நிறுத்தப்பட்டுள்ளது. விடுவிக்க ரூ.499 கட்டணம் செலுத்தவும்: http://bit-lnk.example/x7Kp,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S08
+TA-0082,உங்கள் வாடகை வாகன ஓட்டுநர் 5 நிமிடத்தில் வருவார். OTP 538758. பயணம் தொடங்கும்போது மட்டும் ஓட்டுநரிடம் சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L20
+TA-0083,610143 உங்கள் உள்நுழைவுக் குறியீடு. 10 நிமிடங்களில் காலாவதியாகும். நீங்கள் கேட்கவில்லை என்றால் இதைப் புறக்கணிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L04
+TA-0084,ரேஷன் கார்டு புதுப்பிப்பு: ஆதார் இணைக்காவிட்டால் உங்கள் ரேஷன் நிறுத்தப்படும். இப்போதே இணைக்க: http://kyc-update-india.example/verify,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S22
+TA-0085,சைபர் குற்றப் பிரிவு: உங்கள் ஆதார் எண் சட்டவிரோத நடவடிக்கையில் பயன்படுத்தப்பட்டுள்ளது. கைதைத் தவிர்க்க உடனே இந்த எண்ணை அழைக்கவும்: +91-9XXXXXXXXX,scam,Tamil,authority_impersonation,synthetic,claude_templates_v1,S14
+TA-0086,"வீடியோவை லைக் செய்தால் ஒவ்வொன்றுக்கும் ரூ.1,500. முதலில் ரூ.1,499 டெபாசிட் செய்யவும்: http://upd8-account.example/login",scam,Tamil,job_scam,synthetic,claude_templates_v1,S29
+TA-0087,"உங்கள் ஆர்டருக்கான ரூ.1,250 பணத்தைத் திரும்பப் பெற, அனுப்பப்பட்ட 6 இலக்க OTP-ஐ எங்களுக்குப் பகிரவும்.",scam,Tamil,otp_request,synthetic,claude_templates_v1,S06
+TA-0088,உங்கள் SBI கணக்கில் ரூ.499 பரிவர்த்தனை நடந்துள்ளது. நீங்கள் செய்யவில்லை என்றால் ரத்து செய்ய உடனே உங்கள் கார்டு எண்ணை உள்ளிடவும்: http://secure-bank-login.example/a1,scam,Tamil,card_phishing,synthetic,claude_templates_v1,S25
+TA-0089,"அரசு கல்வி உதவித்தொகை ரூ.10,00,000 உங்களுக்கு அனுமதிக்கப்பட்டுள்ளது. பெற வங்கி எண் மற்றும் ATM PIN சமர்ப்பிக்கவும்: http://kyc-update-india.example/verify",scam,Tamil,scholarship_scam,synthetic,claude_templates_v1,S23
+TA-0090,HDFC Bank பாதுகாப்புத் துறை: உங்கள் கணக்கில் சந்தேகத்திற்குரிய பரிவர்த்தனை. தடுக்க உங்களுக்கு வந்த OTP-ஐ உடனே இந்த எண்ணில் தெரிவிக்கவும்: +91-8XXXXXXXXX,scam,Tamil,otp_request,synthetic,claude_templates_v1,S05
+TA-0091,"வீடியோவை லைக் செய்தால் ஒவ்வொன்றுக்கும் ரூ.3,000. முதலில் ரூ.2,999 டெபாசிட் செய்யவும்: http://rewards-india.example/claim",scam,Tamil,job_scam,synthetic,claude_templates_v1,S29
+TA-0092,சைபர் குற்றப் பிரிவு: உங்கள் ஆதார் எண் சட்டவிரோத நடவடிக்கையில் பயன்படுத்தப்பட்டுள்ளது. கைதைத் தவிர்க்க உடனே இந்த எண்ணை அழைக்கவும்: +91-7XXXXXXXXX,scam,Tamil,authority_impersonation,synthetic,claude_templates_v1,S14
+TA-0093,"உங்கள் சம்பளம் ரூ.2,000 XX5678 கணக்கில் வரவு வைக்கப்பட்டது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L15
+TA-0094,"உங்கள் IOB கணக்கில் ரூ.12,500 பரிவர்த்தனை நடந்துள்ளது. நீங்கள் செய்யவில்லை என்றால் ரத்து செய்ய உடனே உங்கள் கார்டு எண்ணை உள்ளிடவும்: http://claim-prize-now.example/win",scam,Tamil,card_phishing,synthetic,claude_templates_v1,S25
+TA-0095,ICICI Bank பாதுகாப்புத் துறை: உங்கள் கணக்கில் சந்தேகத்திற்குரிய பரிவர்த்தனை. தடுக்க உங்களுக்கு வந்த OTP-ஐ உடனே இந்த எண்ணில் தெரிவிக்கவும்: +91-9XXXXXXXXX,scam,Tamil,otp_request,synthetic,claude_templates_v1,S05
+TA-0096,"உங்களுக்கு ரூ.50,000 கடன் உடனடி ஒப்புதல்! ஆவணங்கள் தேவையில்லை. முதலில் காப்பீட்டுக் கட்டணம் ரூ.99 செலுத்தவும்: http://upd8-account.example/login",scam,Tamil,loan_fee,synthetic,claude_templates_v1,S11
+TA-0097,"நீங்கள் UPI மூலம் ரூ.7,800 அனுப்பியுள்ளீர்கள். பரிவர்த்தனை எண் 023303070. உங்களுடையது அல்ல என்றால் உடனே வங்கியை அணுகவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L14
+TA-0098,"உங்கள் ஆர்டருக்கான ரூ.2,000 பணத்தைத் திரும்பப் பெற, அனுப்பப்பட்ட 6 இலக்க OTP-ஐ எங்களுக்குப் பகிரவும்.",scam,Tamil,otp_request,synthetic,claude_templates_v1,S06
+TA-0099,உங்கள் Indian Bank வங்கிக் கணக்கு 24 மணி நேரத்தில் செயலிழக்கும். PAN எண்ணைச் சரிபார்க்க இப்போதே இந்த இணைப்பைத் திறக்கவும்: http://bit-lnk.example/x7Kp,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S02
+TA-0100,நாளை மாலை 5 மணிக்கு கோவிலுக்குப் போகலாமா? நீயும் வருகிறாயா?,legitimate,Tamil,none,synthetic,claude_templates_v1,L18
+TA-0101,"உங்கள் சம்பளம் ரூ.3,500 XX4410 கணக்கில் வரவு வைக்கப்பட்டது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L15
+TA-0102,உங்கள் சிலிண்டர் முன்பதிவு உறுதியானது. விநியோக எண் 775170166. 2-3 நாட்களில் வழங்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L24
+TA-0103,உங்கள் சிலிண்டர் முன்பதிவு உறுதியானது. விநியோக எண் 933163735. 2-3 நாட்களில் வழங்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L24
+TA-0104,உங்கள் நேர்காணல் 15-Dec அன்று காலை 11 மணிக்கு நடைபெறும். அடையாள அட்டையுடன் வரவும். கட்டணம் எதுவும் இல்லை.,legitimate,Tamil,none,synthetic,claude_templates_v1,L25
+TA-0105,"தீபாவளி சிறப்புப் பரிசு! ரூ.2,50,000 மதிப்புள்ள கிஃப்ட் வவுச்சர் இலவசம். இப்போதே பெற: http://rewards-india.example/claim",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S24
+TA-0106,799371 என்பது உங்கள் Indian Bank பரிவர்த்தனைக்கான OTP. இதை யாருடனும் பகிர வேண்டாம். வங்கி ஊழியர்கள் ஒருபோதும் OTP கேட்க மாட்டார்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L03
+TA-0107,தீபாவளி வாழ்த்துகள்! எங்கள் கடையில் நாளை முதல் 10% தள்ளுபடி. நேரில் வருகை தரவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L28
+TA-0108,"வருமான வரித் துறை: உங்களுக்கு ரூ.3,500 வரித் திரும்பப் பெறுதல் அனுமதிக்கப்பட்டுள்ளது. வங்கி விவரங்களைச் சமர்ப்பிக்க: http://kyc-update-india.example/verify",scam,Tamil,tax_refund,synthetic,claude_templates_v1,S17
+TA-0109,பள்ளி அறிவிப்பு: நாளை பெற்றோர் சந்திப்புக் கூட்டம் காலை 9 மணிக்கு நடைபெறும். அனைவரும் கலந்துகொள்ளவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L17
+TA-0110,596575 என்பது உங்கள் Axis Bank பரிவர்த்தனைக்கான OTP. இதை யாருடனும் பகிர வேண்டாம். வங்கி ஊழியர்கள் ஒருபோதும் OTP கேட்க மாட்டார்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L03
+TA-0111,உங்கள் HDFC Bank வங்கிக் கணக்கு 24 மணி நேரத்தில் செயலிழக்கும். PAN எண்ணைச் சரிபார்க்க இப்போதே இந்த இணைப்பைத் திறக்கவும்: http://upd8-account.example/login,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S02
+TA-0112,"வணக்கம், நான் வெளிநாட்டிலிருந்து உங்களுக்கு விலையுயர்ந்த பரிசு அனுப்பியுள்ளேன். விமான நிலையக் கட்டணம் ரூ.2,999 செலுத்தினால் கிடைக்கும்: +91-7XXXXXXXXX",scam,Tamil,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TA-0113,"HDFC Bank: உங்கள் கணக்கு XX1234-ல் இருப்பு ரூ.18,900 மட்டுமே உள்ளது. குறைந்தபட்ச இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L26
+TA-0114,"உங்கள் ஆர்டர் ரத்து செய்யப்பட்டதால் ரூ.3,500 5-7 வேலை நாட்களில் உங்கள் மூலக் கணக்கிற்குத் திரும்ப வரும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L22
+TA-0115,"தீபாவளி சிறப்புப் பரிசு! ரூ.10,00,000 மதிப்புள்ள கிஃப்ட் வவுச்சர் இலவசம். இப்போதே பெற: http://bit-lnk.example/x7Kp",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S24
+TA-0116,"வருமான வரித் துறை: உங்களுக்கு ரூ.1,250 வரித் திரும்பப் பெறுதல் அனுமதிக்கப்பட்டுள்ளது. வங்கி விவரங்களைச் சமர்ப்பிக்க: http://kyc-update-india.example/verify",scam,Tamil,tax_refund,synthetic,claude_templates_v1,S17
+TA-0117,உங்கள் சிலிண்டர் முன்பதிவு உறுதியானது. விநியோக எண் 838663177. 2-3 நாட்களில் வழங்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L24
+TA-0118,"Canara Bank: உங்கள் கணக்கு XX9021-ல் இருப்பு ரூ.5,670 மட்டுமே உள்ளது. குறைந்தபட்ச இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L26
+TA-0119,"வீடியோவை லைக் செய்தால் ஒவ்வொன்றுக்கும் ரூ.3,000. முதலில் ரூ.199 டெபாசிட் செய்யவும்: http://rewards-india.example/claim",scam,Tamil,job_scam,synthetic,claude_templates_v1,S29
+TA-0120,"அன்புள்ள வாடிக்கையாளரே, உங்கள் HDFC Bank கணக்கின் KYC புதுப்பிக்கப்படவில்லை. இன்று இரவுக்குள் புதுப்பிக்காவிட்டால் கணக்கு முடக்கப்படும். உடனே புதுப்பிக்க: http://claim-prize-now.example/win",scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S01
+TA-0121,"வீட்டிலிருந்தே வேலை! தினமும் ரூ.1,500 சம்பாதிக்கலாம். பதிவுக் கட்டணம் ரூ.999 மட்டும். WhatsApp-ல் தொடர்பு கொள்ளவும்: +91-8XXXXXXXXX",scam,Tamil,job_scam,synthetic,claude_templates_v1,S10
+TA-0122,உங்கள் சிலிண்டர் மானியம் நிறுத்தப்படும். ஆதார் இணைப்பை உறுதிசெய்ய இங்கே உள்ளிடவும்: http://upd8-account.example/login,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S18
+TA-0123,"அரசு கல்வி உதவித்தொகை ரூ.2,50,000 உங்களுக்கு அனுமதிக்கப்பட்டுள்ளது. பெற வங்கி எண் மற்றும் ATM PIN சமர்ப்பிக்கவும்: http://bit-lnk.example/x7Kp",scam,Tamil,scholarship_scam,synthetic,claude_templates_v1,S23
+TA-0124,உங்கள் வாடகை வாகன ஓட்டுநர் 5 நிமிடத்தில் வருவார். OTP 534655. பயணம் தொடங்கும்போது மட்டும் ஓட்டுநரிடம் சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L20
+TA-0125,"உங்கள் ICICI Bank கணக்கில் ரூ.2,000 பரிவர்த்தனை நடந்துள்ளது. நீங்கள் செய்யவில்லை என்றால் ரத்து செய்ய உடனே உங்கள் கார்டு எண்ணை உள்ளிடவும்: http://rewards-india.example/claim",scam,Tamil,card_phishing,synthetic,claude_templates_v1,S25
+TA-0126,ரேஷன் கார்டு புதுப்பிப்பு: ஆதார் இணைக்காவிட்டால் உங்கள் ரேஷன் நிறுத்தப்படும். இப்போதே இணைக்க: http://secure-bank-login.example/a1,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S22
+TA-0127,"அன்புள்ள வாடிக்கையாளரே, உங்கள் IOB கணக்கின் KYC புதுப்பிக்கப்படவில்லை. இன்று இரவுக்குள் புதுப்பிக்காவிட்டால் கணக்கு முடக்கப்படும். உடனே புதுப்பிக்க: http://claim-prize-now.example/win",scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S01
+TA-0128,"மின் கட்டணம் ரூ.25,000 12-Dec-க்குள் செலுத்த வேண்டும். அதிகாரப்பூர்வ ஆப் அல்லது அலுவலகத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L16
+TA-0129,இலவச 3 மாத ரீசார்ஜ் சலுகை! இன்று மட்டும். உங்கள் எண்ணை உள்ளிட்டு PIN-ஐ உறுதிப்படுத்தவும்: http://secure-bank-login.example/a1,scam,Tamil,recharge_scam,synthetic,claude_templates_v1,S27
+TA-0130,உங்கள் ஆர்டர் இன்று மாலை 6 மணிக்குள் டெலிவரி செய்யப்படும். டெலிவரி நபர் வரும்போது ஆர்டர் எண் 190340438 சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L05
+TA-0131,"வீட்டிலிருந்தே வேலை! தினமும் ரூ.3,000 சம்பாதிக்கலாம். பதிவுக் கட்டணம் ரூ.199 மட்டும். WhatsApp-ல் தொடர்பு கொள்ளவும்: +91-8XXXXXXXXX",scam,Tamil,job_scam,synthetic,claude_templates_v1,S10
+TA-0132,உங்கள் சிலிண்டர் முன்பதிவு உறுதியானது. விநியோக எண் 994883755. 2-3 நாட்களில் வழங்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L24
+TA-0133,"அரசு கல்வி உதவித்தொகை ரூ.25,000 உங்களுக்கு அனுமதிக்கப்பட்டுள்ளது. பெற வங்கி எண் மற்றும் ATM PIN சமர்ப்பிக்கவும்: http://bit-lnk.example/x7Kp",scam,Tamil,scholarship_scam,synthetic,claude_templates_v1,S23
+TA-0134,"அம்மா, என் எண் மாறிவிட்டது. அவசரமாக ரூ.499 அனுப்ப முடியுமா? இந்த UPI எண்ணுக்கு அனுப்பவும்: +91-7XXXXXXXXX",scam,Tamil,relative_emergency,synthetic,claude_templates_v1,S19
+TA-0135,622444 என்பது உங்கள் Indian Bank பரிவர்த்தனைக்கான OTP. இதை யாருடனும் பகிர வேண்டாம். வங்கி ஊழியர்கள் ஒருபோதும் OTP கேட்க மாட்டார்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L03
+TA-0136,உங்கள் Axis Bank ரிவார்டு புள்ளிகளைப் பெற இந்த ஆப்-ஐ நிறுவவும்: http://bit-lnk.example/x7Kp. நிறுவிய பின் அனுமதிகளை ஏற்கவும்.,scam,Tamil,fake_app,synthetic,claude_templates_v1,S21
+TA-0137,"தீபாவளி சிறப்புப் பரிசு! ரூ.50,000 மதிப்புள்ள கிஃப்ட் வவுச்சர் இலவசம். இப்போதே பெற: http://secure-bank-login.example/a1",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S24
+TA-0138,எங்கள் VIP குழுவில் சேருங்கள்! ஒரு வாரத்தில் முதலீட்டை இரட்டிப்பாக்கலாம். உறுதியான லாபம். சேர: http://upd8-account.example/login,scam,Tamil,investment_scam,synthetic,claude_templates_v1,S15
+TA-0139,"மின் கட்டணம் ரூ.3,500 15-Dec-க்குள் செலுத்த வேண்டும். அதிகாரப்பூர்வ ஆப் அல்லது அலுவலகத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L16
+TA-0140,உங்கள் Indian Bank வங்கிக் கணக்கு 24 மணி நேரத்தில் செயலிழக்கும். PAN எண்ணைச் சரிபார்க்க இப்போதே இந்த இணைப்பைத் திறக்கவும்: http://claim-prize-now.example/win,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S02
+TA-0141,"தவறுதலாக உங்கள் கணக்கிற்கு ரூ.25,000 அனுப்பிவிட்டேன். தயவுசெய்து திரும்ப அனுப்புங்கள்: +91-9XXXXXXXXX",scam,Tamil,wrong_transfer,synthetic,claude_templates_v1,S20
+TA-0142,"IOB எச்சரிக்கை: உங்கள் PIN, OTP, CVV ஆகியவற்றை யாரிடமும் பகிர வேண்டாம். சந்தேகம் இருந்தால் கார்டின் பின்புறம் உள்ள எண்ணை அழைக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L12
+TA-0143,"அம்மா, என் எண் மாறிவிட்டது. அவசரமாக ரூ.2,000 அனுப்ப முடியுமா? இந்த UPI எண்ணுக்கு அனுப்பவும்: +91-7XXXXXXXXX",scam,Tamil,relative_emergency,synthetic,claude_templates_v1,S19
+TA-0144,"வாழ்த்துகள்! அதிர்ஷ்டக் குலுக்கலில் நீங்கள் ரூ.50,000 பரிசு வென்றுள்ளீர்கள். பரிசைப் பெற இன்றே இங்கே பதிவு செய்யுங்கள்: http://kyc-update-india.example/verify",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S03
+TA-0145,"உங்கள் மொபைல் எண் ரூ.25,000 லக்கி டிரா-வில் தேர்வாகியுள்ளது. பரிசுத் தொகையைப் பெற செயலாக்கக் கட்டணம் ரூ.499 செலுத்தவும்: http://bit-lnk.example/x7Kp",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S04
+TA-0146,உங்கள் சிலிண்டர் முன்பதிவு உறுதியானது. விநியோக எண் 287721753. 2-3 நாட்களில் வழங்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L24
+TA-0147,IOB பாதுகாப்புத் துறை: உங்கள் கணக்கில் சந்தேகத்திற்குரிய பரிவர்த்தனை. தடுக்க உங்களுக்கு வந்த OTP-ஐ உடனே இந்த எண்ணில் தெரிவிக்கவும்: +91-9XXXXXXXXX,scam,Tamil,otp_request,synthetic,claude_templates_v1,S05
+TA-0148,"உங்கள் சம்பளம் ரூ.12,500 XX5678 கணக்கில் வரவு வைக்கப்பட்டது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L15
+TA-0149,"உங்கள் ICICI Bank கணக்கில் ரூ.3,500 பரிவர்த்தனை நடந்துள்ளது. நீங்கள் செய்யவில்லை என்றால் ரத்து செய்ய உடனே உங்கள் கார்டு எண்ணை உள்ளிடவும்: http://kyc-update-india.example/verify",scam,Tamil,card_phishing,synthetic,claude_templates_v1,S25
+TA-0150,"SBI: உங்கள் கணக்கு XX9021-ல் ரூ.25,000 வரவு வைக்கப்பட்டது. தற்போதைய இருப்பு ரூ.42,310.",legitimate,Tamil,none,synthetic,claude_templates_v1,L02
+TA-0151,238282 உங்கள் உள்நுழைவுக் குறியீடு. 10 நிமிடங்களில் காலாவதியாகும். நீங்கள் கேட்கவில்லை என்றால் இதைப் புறக்கணிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L04
+TA-0152,உங்கள் பார்சல் சுங்கத் துறையில் நிறுத்தப்பட்டுள்ளது. விடுவிக்க ரூ.199 கட்டணம் செலுத்தவும்: http://bit-lnk.example/x7Kp,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S08
+TA-0153,உங்கள் ஆதார் எண் இன்று முடக்கப்படும். தவிர்க்க OTP மூலம் உறுதிப்படுத்தவும்: http://kyc-update-india.example/verify,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S26
+TA-0154,உங்கள் தபால் பொருளை வழங்க முடியவில்லை. முகவரி தவறானது. ரூ.199 மறுவிநியோகக் கட்டணம் செலுத்தவும்: http://kyc-update-india.example/verify,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S09
+TA-0155,நீங்கள் UPI மூலம் ரூ.499 அனுப்பியுள்ளீர்கள். பரிவர்த்தனை எண் 544471324. உங்களுடையது அல்ல என்றால் உடனே வங்கியை அணுகவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L14
+TA-0156,"உங்கள் சம்பளம் ரூ.1,250 XX4410 கணக்கில் வரவு வைக்கப்பட்டது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L15
+TA-0157,"அம்மா, என் எண் மாறிவிட்டது. அவசரமாக ரூ.499 அனுப்ப முடியுமா? இந்த UPI எண்ணுக்கு அனுப்பவும்: +91-8XXXXXXXXX",scam,Tamil,relative_emergency,synthetic,claude_templates_v1,S19
+TA-0158,TNEB அறிவிப்பு: நிலுவையில் உள்ள மின் கட்டணம் செலுத்தப்படாததால் இன்று இரவு 9.30 மணிக்கு உங்கள் மின் இணைப்பு துண்டிக்கப்படும். உடனே அழைக்கவும்: +91-9XXXXXXXXX,scam,Tamil,utility_threat,synthetic,claude_templates_v1,S07
+TA-0159,"Axis Bank எச்சரிக்கை: உங்கள் PIN, OTP, CVV ஆகியவற்றை யாரிடமும் பகிர வேண்டாம். சந்தேகம் இருந்தால் கார்டின் பின்புறம் உள்ள எண்ணை அழைக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L12
+TA-0160,உங்கள் நேர்காணல் 12-Dec அன்று காலை 11 மணிக்கு நடைபெறும். அடையாள அட்டையுடன் வரவும். கட்டணம் எதுவும் இல்லை.,legitimate,Tamil,none,synthetic,claude_templates_v1,L25
+TA-0161,"Axis Bank: உங்கள் கடன் தவணை ரூ.12,500 வரும் 20-Dec அன்று பற்று வைக்கப்படும். போதுமான இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L08
+TA-0162,உங்கள் பார்சல் சுங்கத் துறையில் நிறுத்தப்பட்டுள்ளது. விடுவிக்க ரூ.99 கட்டணம் செலுத்தவும்: http://kyc-update-india.example/verify,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S08
+TA-0163,"உங்கள் காப்பீட்டு முதிர்வுத் தொகை ரூ.25,000 தயாராக உள்ளது. பெற செயலாக்கக் கட்டணம் ரூ.99 செலுத்தவும்: http://kyc-update-india.example/verify",scam,Tamil,insurance_scam,synthetic,claude_templates_v1,S30
+TA-0164,உங்கள் ஆதார் எண் இன்று முடக்கப்படும். தவிர்க்க OTP மூலம் உறுதிப்படுத்தவும்: http://claim-prize-now.example/win,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S26
+TA-0165,உங்கள் சிலிண்டர் மானியம் நிறுத்தப்படும். ஆதார் இணைப்பை உறுதிசெய்ய இங்கே உள்ளிடவும்: http://secure-bank-login.example/a1,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S18
+TA-0166,"மின் கட்டணம் ரூ.12,500 20-Dec-க்குள் செலுத்த வேண்டும். அதிகாரப்பூர்வ ஆப் அல்லது அலுவலகத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L16
+TA-0167,"உங்கள் மின் கட்டணம் ரூ.1,250 வெற்றிகரமாகச் செலுத்தப்பட்டது. ரசீது எண் 604223253. நன்றி.",legitimate,Tamil,none,synthetic,claude_templates_v1,L07
+TA-0168,உங்கள் ரயில் டிக்கெட் உறுதி செய்யப்பட்டது. PNR 038657191. பயணத் தேதி 15-Dec. இனிய பயணம்!,legitimate,Tamil,none,synthetic,claude_templates_v1,L11
+TA-0169,416724 என்பது உங்கள் Axis Bank பரிவர்த்தனைக்கான OTP. இதை யாருடனும் பகிர வேண்டாம். வங்கி ஊழியர்கள் ஒருபோதும் OTP கேட்க மாட்டார்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L03
+TA-0170,"உங்கள் ரீசார்ஜ் ரூ.1,250 வெற்றிகரமாக முடிந்தது. வேலிடிட்டி 28 நாட்கள்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L09
+TA-0171,982507 உங்கள் உள்நுழைவுக் குறியீடு. 10 நிமிடங்களில் காலாவதியாகும். நீங்கள் கேட்கவில்லை என்றால் இதைப் புறக்கணிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L04
+TA-0172,"வீட்டிலிருந்தே வேலை! தினமும் ரூ.1,500 சம்பாதிக்கலாம். பதிவுக் கட்டணம் ரூ.1,499 மட்டும். WhatsApp-ல் தொடர்பு கொள்ளவும்: +91-9XXXXXXXXX",scam,Tamil,job_scam,synthetic,claude_templates_v1,S10
+TA-0173,உங்கள் தபால் பொருளை வழங்க முடியவில்லை. முகவரி தவறானது. ரூ.499 மறுவிநியோகக் கட்டணம் செலுத்தவும்: http://kyc-update-india.example/verify,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S09
+TA-0174,"வீட்டிலிருந்தே வேலை! தினமும் ரூ.3,000 சம்பாதிக்கலாம். பதிவுக் கட்டணம் ரூ.999 மட்டும். WhatsApp-ல் தொடர்பு கொள்ளவும்: +91-8XXXXXXXXX",scam,Tamil,job_scam,synthetic,claude_templates_v1,S10
+TA-0175,"ICICI Bank எச்சரிக்கை: உங்கள் PIN, OTP, CVV ஆகியவற்றை யாரிடமும் பகிர வேண்டாம். சந்தேகம் இருந்தால் கார்டின் பின்புறம் உள்ள எண்ணை அழைக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L12
+TA-0176,"உங்கள் காப்பீட்டு முதிர்வுத் தொகை ரூ.10,00,000 தயாராக உள்ளது. பெற செயலாக்கக் கட்டணம் ரூ.999 செலுத்தவும்: http://secure-bank-login.example/a1",scam,Tamil,insurance_scam,synthetic,claude_templates_v1,S30
+TA-0177,உங்கள் சிலிண்டர் முன்பதிவு உறுதியானது. விநியோக எண் 917798270. 2-3 நாட்களில் வழங்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L24
+TA-0178,உங்கள் ஆர்டர் இன்று மாலை 6 மணிக்குள் டெலிவரி செய்யப்படும். டெலிவரி நபர் வரும்போது ஆர்டர் எண் 074517133 சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L05
+TA-0179,போக்குவரத்து விதிமீறல் அபராதம் ரூ.499 உங்கள் வாகனத்திற்கு விதிக்கப்பட்டுள்ளது. அதிகாரப்பூர்வ அரசு இணையதளத்தில் அல்லது காவல் நிலையத்தில் செலுத்தலாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L30
+TA-0180,"போக்குவரத்து விதிமீறல் அபராதம் ரூ.7,800 உங்கள் வாகனத்திற்கு விதிக்கப்பட்டுள்ளது. அதிகாரப்பூர்வ அரசு இணையதளத்தில் அல்லது காவல் நிலையத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L30
+TA-0181,"உங்கள் தபால் பொருளை வழங்க முடியவில்லை. முகவரி தவறானது. ரூ.2,999 மறுவிநியோகக் கட்டணம் செலுத்தவும்: http://kyc-update-india.example/verify",scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S09
+TA-0182,உங்கள் சிலிண்டர் முன்பதிவு உறுதியானது. விநியோக எண் 488510272. 2-3 நாட்களில் வழங்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L24
+TA-0183,IOB: உங்கள் KYC ஆவணங்களை அருகிலுள்ள கிளையில் நேரில் புதுப்பிக்கலாம். எந்த இணைப்பையும் திறக்க வேண்டாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L13
+TA-0184,உங்கள் பார்சல் சுங்கத் துறையில் நிறுத்தப்பட்டுள்ளது. விடுவிக்க ரூ.199 கட்டணம் செலுத்தவும்: http://secure-bank-login.example/a1,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S08
+TA-0185,"தீபாவளி சிறப்புப் பரிசு! ரூ.50,000 மதிப்புள்ள கிஃப்ட் வவுச்சர் இலவசம். இப்போதே பெற: http://claim-prize-now.example/win",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S24
+TA-0186,எங்கள் VIP குழுவில் சேருங்கள்! ஒரு வாரத்தில் முதலீட்டை இரட்டிப்பாக்கலாம். உறுதியான லாபம். சேர: http://secure-bank-login.example/a1,scam,Tamil,investment_scam,synthetic,claude_templates_v1,S15
+TA-0187,751401 உங்கள் உள்நுழைவுக் குறியீடு. 10 நிமிடங்களில் காலாவதியாகும். நீங்கள் கேட்கவில்லை என்றால் இதைப் புறக்கணிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L04
+TA-0188,"IOB: உங்கள் கணக்கு XX5678-ல் ரூ.7,800 வரவு வைக்கப்பட்டது. தற்போதைய இருப்பு ரூ.18,900.",legitimate,Tamil,none,synthetic,claude_templates_v1,L02
+TA-0189,"மின் கட்டணம் ரூ.12,500 15-Dec-க்குள் செலுத்த வேண்டும். அதிகாரப்பூர்வ ஆப் அல்லது அலுவலகத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L16
+TA-0190,"உங்கள் மின் கட்டணம் ரூ.7,800 வெற்றிகரமாகச் செலுத்தப்பட்டது. ரசீது எண் 584982544. நன்றி.",legitimate,Tamil,none,synthetic,claude_templates_v1,L07
+TA-0191,"அன்புள்ள வாடிக்கையாளரே, உங்கள் SBI கணக்கின் KYC புதுப்பிக்கப்படவில்லை. இன்று இரவுக்குள் புதுப்பிக்காவிட்டால் கணக்கு முடக்கப்படும். உடனே புதுப்பிக்க: http://secure-bank-login.example/a1",scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S01
+TA-0192,உங்கள் ஆர்டர் இன்று மாலை 6 மணிக்குள் டெலிவரி செய்யப்படும். டெலிவரி நபர் வரும்போது ஆர்டர் எண் 627828274 சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L05
+TA-0193,"வணக்கம், நான் வெளிநாட்டிலிருந்து உங்களுக்கு விலையுயர்ந்த பரிசு அனுப்பியுள்ளேன். விமான நிலையக் கட்டணம் ரூ.199 செலுத்தினால் கிடைக்கும்: +91-8XXXXXXXXX",scam,Tamil,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TA-0194,"உங்கள் Canara Bank கணக்கில் ரூ.3,500 பரிவர்த்தனை நடந்துள்ளது. நீங்கள் செய்யவில்லை என்றால் ரத்து செய்ய உடனே உங்கள் கார்டு எண்ணை உள்ளிடவும்: http://secure-bank-login.example/a1",scam,Tamil,card_phishing,synthetic,claude_templates_v1,S25
+TA-0195,"நீங்கள் UPI மூலம் ரூ.1,250 அனுப்பியுள்ளீர்கள். பரிவர்த்தனை எண் 996065307. உங்களுடையது அல்ல என்றால் உடனே வங்கியை அணுகவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L14
+TA-0196,HDFC Bank: உங்கள் கடன் தவணை ரூ.499 வரும் 15-Dec அன்று பற்று வைக்கப்படும். போதுமான இருப்பைப் பராமரிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L08
+TA-0197,"வணக்கம், நான் வெளிநாட்டிலிருந்து உங்களுக்கு விலையுயர்ந்த பரிசு அனுப்பியுள்ளேன். விமான நிலையக் கட்டணம் ரூ.199 செலுத்தினால் கிடைக்கும்: +91-9XXXXXXXXX",scam,Tamil,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TA-0198,உங்கள் தபால் பொருளை வழங்க முடியவில்லை. முகவரி தவறானது. ரூ.99 மறுவிநியோகக் கட்டணம் செலுத்தவும்: http://rewards-india.example/claim,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S09
+TA-0199,"வீடியோவை லைக் செய்தால் ஒவ்வொன்றுக்கும் ரூ.5,000. முதலில் ரூ.1,499 டெபாசிட் செய்யவும்: http://upd8-account.example/login",scam,Tamil,job_scam,synthetic,claude_templates_v1,S29
+TA-0200,"அம்மா, என் எண் மாறிவிட்டது. அவசரமாக ரூ.7,800 அனுப்ப முடியுமா? இந்த UPI எண்ணுக்கு அனுப்பவும்: +91-9XXXXXXXXX",scam,Tamil,relative_emergency,synthetic,claude_templates_v1,S19
+TA-0201,உங்கள் Axis Bank ரிவார்டு புள்ளிகளைப் பெற இந்த ஆப்-ஐ நிறுவவும்: http://rewards-india.example/claim. நிறுவிய பின் அனுமதிகளை ஏற்கவும்.,scam,Tamil,fake_app,synthetic,claude_templates_v1,S21
+TA-0202,"Axis Bank: உங்கள் கணக்கு XX4410-ல் இருப்பு ரூ.42,310 மட்டுமே உள்ளது. குறைந்தபட்ச இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L26
+TA-0203,உங்கள் ரயில் டிக்கெட் உறுதி செய்யப்பட்டது. PNR 277561853. பயணத் தேதி 5-Jan. இனிய பயணம்!,legitimate,Tamil,none,synthetic,claude_templates_v1,L11
+TA-0204,உங்கள் ஆதார் எண் இன்று முடக்கப்படும். தவிர்க்க OTP மூலம் உறுதிப்படுத்தவும்: http://upd8-account.example/login,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S26
+TA-0205,உங்கள் தபால் பொருளை வழங்க முடியவில்லை. முகவரி தவறானது. ரூ.999 மறுவிநியோகக் கட்டணம் செலுத்தவும்: http://bit-lnk.example/x7Kp,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S09
+TA-0206,"SBI: உங்கள் கணக்கு XX1234-ல் ரூ.2,000 வரவு வைக்கப்பட்டது. தற்போதைய இருப்பு ரூ.1,240.",legitimate,Tamil,none,synthetic,claude_templates_v1,L02
+TA-0207,"உங்கள் காப்பீட்டுத் தவணை ரூ.3,500 5-Jan அன்று செலுத்த வேண்டும். ஆட்டோ-பே ஏற்கனவே செயல்படுத்தப்பட்டுள்ளது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L23
+TA-0208,தவறுதலாக உங்கள் கணக்கிற்கு ரூ.499 அனுப்பிவிட்டேன். தயவுசெய்து திரும்ப அனுப்புங்கள்: +91-8XXXXXXXXX,scam,Tamil,wrong_transfer,synthetic,claude_templates_v1,S20
+TA-0209,உங்கள் தபால் பொருளை வழங்க முடியவில்லை. முகவரி தவறானது. ரூ.999 மறுவிநியோகக் கட்டணம் செலுத்தவும்: http://upd8-account.example/login,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S09
+TA-0210,"உங்கள் ஆர்டர் ரத்து செய்யப்பட்டதால் ரூ.12,500 5-7 வேலை நாட்களில் உங்கள் மூலக் கணக்கிற்குத் திரும்ப வரும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L22
+TA-0211,"உங்கள் காப்பீட்டுத் தவணை ரூ.3,500 20-Dec அன்று செலுத்த வேண்டும். ஆட்டோ-பே ஏற்கனவே செயல்படுத்தப்பட்டுள்ளது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L23
+TA-0212,"உங்கள் ரீசார்ஜ் ரூ.25,000 வெற்றிகரமாக முடிந்தது. வேலிடிட்டி 28 நாட்கள்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L09
+TA-0213,"உங்களுக்கு ரூ.1,250 கேஷ்பேக் காத்திருக்கிறது. பெற, UPI கோரிக்கையை ஏற்று உங்கள் PIN-ஐ உள்ளிடவும்.",scam,Tamil,upi_fraud,synthetic,claude_templates_v1,S12
+TA-0214,"உங்களுக்கு ரூ.1,00,000 கடன் உடனடி ஒப்புதல்! ஆவணங்கள் தேவையில்லை. முதலில் காப்பீட்டுக் கட்டணம் ரூ.99 செலுத்தவும்: http://kyc-update-india.example/verify",scam,Tamil,loan_fee,synthetic,claude_templates_v1,S11
+TA-0215,"அம்மா, என் எண் மாறிவிட்டது. அவசரமாக ரூ.25,000 அனுப்ப முடியுமா? இந்த UPI எண்ணுக்கு அனுப்பவும்: +91-9XXXXXXXXX",scam,Tamil,relative_emergency,synthetic,claude_templates_v1,S19
+TA-0216,HDFC Bank: உங்கள் கடன் தவணை ரூ.499 வரும் 20-Dec அன்று பற்று வைக்கப்படும். போதுமான இருப்பைப் பராமரிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L08
+TA-0217,"Indian Bank எச்சரிக்கை: உங்கள் PIN, OTP, CVV ஆகியவற்றை யாரிடமும் பகிர வேண்டாம். சந்தேகம் இருந்தால் கார்டின் பின்புறம் உள்ள எண்ணை அழைக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L12
+TA-0218,"உங்கள் மொபைல் எண் ரூ.5,00,000 லக்கி டிரா-வில் தேர்வாகியுள்ளது. பரிசுத் தொகையைப் பெற செயலாக்கக் கட்டணம் ரூ.99 செலுத்தவும்: http://rewards-india.example/claim",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S04
+TA-0219,"உங்கள் சம்பளம் ரூ.12,500 XX1234 கணக்கில் வரவு வைக்கப்பட்டது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L15
+TA-0220,"மின் கட்டணம் ரூ.7,800 12-Dec-க்குள் செலுத்த வேண்டும். அதிகாரப்பூர்வ ஆப் அல்லது அலுவலகத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L16
+TA-0221,"உங்கள் மின் கட்டணம் ரூ.3,500 வெற்றிகரமாகச் செலுத்தப்பட்டது. ரசீது எண் 294667116. நன்றி.",legitimate,Tamil,none,synthetic,claude_templates_v1,L07
+TA-0222,உங்கள் இன்றைய தினசரி 1.5GB டேட்டா வரம்பில் 90% பயன்படுத்தப்பட்டுள்ளது. நாளை புதுப்பிக்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L29
+TA-0223,"அன்புள்ள வாடிக்கையாளரே, உங்கள் Indian Bank கணக்கின் KYC புதுப்பிக்கப்படவில்லை. இன்று இரவுக்குள் புதுப்பிக்காவிட்டால் கணக்கு முடக்கப்படும். உடனே புதுப்பிக்க: http://rewards-india.example/claim",scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S01
+TA-0224,ரேஷன் கார்டு புதுப்பிப்பு: ஆதார் இணைக்காவிட்டால் உங்கள் ரேஷன் நிறுத்தப்படும். இப்போதே இணைக்க: http://rewards-india.example/claim,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S22
+TA-0225,உங்கள் ஆர்டர் இன்று மாலை 6 மணிக்குள் டெலிவரி செய்யப்படும். டெலிவரி நபர் வரும்போது ஆர்டர் எண் 507236887 சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L05
+TA-0226,"வருமான வரித் துறை: உங்களுக்கு ரூ.3,500 வரித் திரும்பப் பெறுதல் அனுமதிக்கப்பட்டுள்ளது. வங்கி விவரங்களைச் சமர்ப்பிக்க: http://bit-lnk.example/x7Kp",scam,Tamil,tax_refund,synthetic,claude_templates_v1,S17
+TA-0227,TNEB அறிவிப்பு: நிலுவையில் உள்ள மின் கட்டணம் செலுத்தப்படாததால் இன்று இரவு 9.30 மணிக்கு உங்கள் மின் இணைப்பு துண்டிக்கப்படும். உடனே அழைக்கவும்: +91-7XXXXXXXXX,scam,Tamil,utility_threat,synthetic,claude_templates_v1,S07
+TA-0228,"அரசு கல்வி உதவித்தொகை ரூ.50,000 உங்களுக்கு அனுமதிக்கப்பட்டுள்ளது. பெற வங்கி எண் மற்றும் ATM PIN சமர்ப்பிக்கவும்: http://rewards-india.example/claim",scam,Tamil,scholarship_scam,synthetic,claude_templates_v1,S23
+TA-0229,"உங்கள் பார்சல் சுங்கத் துறையில் நிறுத்தப்பட்டுள்ளது. விடுவிக்க ரூ.2,999 கட்டணம் செலுத்தவும்: http://claim-prize-now.example/win",scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S08
+TA-0230,"நீங்கள் UPI மூலம் ரூ.25,000 அனுப்பியுள்ளீர்கள். பரிவர்த்தனை எண் 546913736. உங்களுடையது அல்ல என்றால் உடனே வங்கியை அணுகவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L14
+TA-0231,"உங்கள் காப்பீட்டு முதிர்வுத் தொகை ரூ.50,000 தயாராக உள்ளது. பெற செயலாக்கக் கட்டணம் ரூ.499 செலுத்தவும்: http://claim-prize-now.example/win",scam,Tamil,insurance_scam,synthetic,claude_templates_v1,S30
+TA-0232,"உங்களுக்கு ரூ.12,500 கேஷ்பேக் காத்திருக்கிறது. பெற, UPI கோரிக்கையை ஏற்று உங்கள் PIN-ஐ உள்ளிடவும்.",scam,Tamil,upi_fraud,synthetic,claude_templates_v1,S12
+TA-0233,உங்கள் வாடகை வாகன ஓட்டுநர் 5 நிமிடத்தில் வருவார். OTP 574374. பயணம் தொடங்கும்போது மட்டும் ஓட்டுநரிடம் சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L20
+TA-0234,ரேஷன் கார்டு புதுப்பிப்பு: ஆதார் இணைக்காவிட்டால் உங்கள் ரேஷன் நிறுத்தப்படும். இப்போதே இணைக்க: http://upd8-account.example/login,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S22
+TA-0235,793564 என்பது உங்கள் Indian Bank பரிவர்த்தனைக்கான OTP. இதை யாருடனும் பகிர வேண்டாம். வங்கி ஊழியர்கள் ஒருபோதும் OTP கேட்க மாட்டார்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L03
+TA-0236,உங்கள் IOB ரிவார்டு புள்ளிகளைப் பெற இந்த ஆப்-ஐ நிறுவவும்: http://rewards-india.example/claim. நிறுவிய பின் அனுமதிகளை ஏற்கவும்.,scam,Tamil,fake_app,synthetic,claude_templates_v1,S21
+TA-0237,"உங்கள் காப்பீட்டு முதிர்வுத் தொகை ரூ.2,50,000 தயாராக உள்ளது. பெற செயலாக்கக் கட்டணம் ரூ.1,499 செலுத்தவும்: http://bit-lnk.example/x7Kp",scam,Tamil,insurance_scam,synthetic,claude_templates_v1,S30
+TA-0238,உங்கள் வாடகை வாகன ஓட்டுநர் 5 நிமிடத்தில் வருவார். OTP 099917. பயணம் தொடங்கும்போது மட்டும் ஓட்டுநரிடம் சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L20
+TA-0239,"வீட்டிலிருந்தே வேலை! தினமும் ரூ.5,000 சம்பாதிக்கலாம். பதிவுக் கட்டணம் ரூ.1,499 மட்டும். WhatsApp-ல் தொடர்பு கொள்ளவும்: +91-8XXXXXXXXX",scam,Tamil,job_scam,synthetic,claude_templates_v1,S10
+TA-0240,உங்கள் IOB ரிவார்டு புள்ளிகளைப் பெற இந்த ஆப்-ஐ நிறுவவும்: http://upd8-account.example/login. நிறுவிய பின் அனுமதிகளை ஏற்கவும்.,scam,Tamil,fake_app,synthetic,claude_templates_v1,S21
+TA-0241,"வாழ்த்துகள்! அதிர்ஷ்டக் குலுக்கலில் நீங்கள் ரூ.25,000 பரிசு வென்றுள்ளீர்கள். பரிசைப் பெற இன்றே இங்கே பதிவு செய்யுங்கள்: http://rewards-india.example/claim",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S03
+TA-0242,398280 என்பது உங்கள் Canara Bank பரிவர்த்தனைக்கான OTP. இதை யாருடனும் பகிர வேண்டாம். வங்கி ஊழியர்கள் ஒருபோதும் OTP கேட்க மாட்டார்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L03
+TA-0243,நினைவூட்டல்: நாளை காலை 10 மணிக்கு டாக்டருடன் உங்கள் சந்திப்பு உள்ளது. மாற்ற வேண்டுமெனில் மருத்துவமனையை அழைக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L10
+TA-0244,உங்கள் ஆதார் எண் இன்று முடக்கப்படும். தவிர்க்க OTP மூலம் உறுதிப்படுத்தவும்: http://bit-lnk.example/x7Kp,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S26
+TA-0245,இலவச 3 மாத ரீசார்ஜ் சலுகை! இன்று மட்டும். உங்கள் எண்ணை உள்ளிட்டு PIN-ஐ உறுதிப்படுத்தவும்: http://claim-prize-now.example/win,scam,Tamil,recharge_scam,synthetic,claude_templates_v1,S27
+TA-0246,"IOB: உங்கள் கிரெடிட் கார்டு பில் ரூ.25,000 உருவாக்கப்பட்டது. கடைசி தேதி 15-Dec. ஆப்-ல் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L21
+TA-0247,"தவறுதலாக உங்கள் கணக்கிற்கு ரூ.1,250 அனுப்பிவிட்டேன். தயவுசெய்து திரும்ப அனுப்புங்கள்: +91-9XXXXXXXXX",scam,Tamil,wrong_transfer,synthetic,claude_templates_v1,S20
+TA-0248,"நீங்கள் UPI மூலம் ரூ.3,500 அனுப்பியுள்ளீர்கள். பரிவர்த்தனை எண் 854870998. உங்களுடையது அல்ல என்றால் உடனே வங்கியை அணுகவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L14
+TA-0249,ரேஷன் கார்டு புதுப்பிப்பு: ஆதார் இணைக்காவிட்டால் உங்கள் ரேஷன் நிறுத்தப்படும். இப்போதே இணைக்க: http://bit-lnk.example/x7Kp,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S22
+TA-0250,"உங்கள் ரீசார்ஜ் ரூ.7,800 வெற்றிகரமாக முடிந்தது. வேலிடிட்டி 28 நாட்கள்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L09
+TA-0251,"உங்கள் Canara Bank கிரெடிட் கார்டு ரிவார்டு புள்ளிகள் ரூ.1,250 இன்று காலாவதியாகும். இப்போதே பணமாக மாற்ற: http://bit-lnk.example/x7Kp",scam,Tamil,reward_points,synthetic,claude_templates_v1,S16
+TA-0252,"உங்கள் HDFC Bank கணக்கில் ரூ.7,800 பரிவர்த்தனை நடந்துள்ளது. நீங்கள் செய்யவில்லை என்றால் ரத்து செய்ய உடனே உங்கள் கார்டு எண்ணை உள்ளிடவும்: http://claim-prize-now.example/win",scam,Tamil,card_phishing,synthetic,claude_templates_v1,S25
+TA-0253,உங்கள் சிம் கார்டு KYC நிலுவையில் உள்ளது. 2 மணி நேரத்தில் இணைப்பு நிறுத்தப்படும். இப்போதே அழைக்கவும்: +91-8XXXXXXXXX,scam,Tamil,sim_block,synthetic,claude_templates_v1,S13
+TA-0254,"உங்கள் SBI கிரெடிட் கார்டு ரிவார்டு புள்ளிகள் ரூ.25,000 இன்று காலாவதியாகும். இப்போதே பணமாக மாற்ற: http://secure-bank-login.example/a1",scam,Tamil,reward_points,synthetic,claude_templates_v1,S16
+TA-0255,"Canara Bank எச்சரிக்கை: உங்கள் PIN, OTP, CVV ஆகியவற்றை யாரிடமும் பகிர வேண்டாம். சந்தேகம் இருந்தால் கார்டின் பின்புறம் உள்ள எண்ணை அழைக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L12
+TA-0256,"மின் கட்டணம் ரூ.7,800 20-Dec-க்குள் செலுத்த வேண்டும். அதிகாரப்பூர்வ ஆப் அல்லது அலுவலகத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L16
+TA-0257,"உங்கள் ஆர்டருக்கான ரூ.499 பணத்தைத் திரும்பப் பெற, அனுப்பப்பட்ட 6 இலக்க OTP-ஐ எங்களுக்குப் பகிரவும்.",scam,Tamil,otp_request,synthetic,claude_templates_v1,S06
+TA-0258,"உங்களுக்கு ரூ.50,000 கடன் உடனடி ஒப்புதல்! ஆவணங்கள் தேவையில்லை. முதலில் காப்பீட்டுக் கட்டணம் ரூ.1,499 செலுத்தவும்: http://claim-prize-now.example/win",scam,Tamil,loan_fee,synthetic,claude_templates_v1,S11
+TA-0259,"IOB: உங்கள் கணக்கு XX9021-ல் இருப்பு ரூ.1,240 மட்டுமே உள்ளது. குறைந்தபட்ச இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L26
+TA-0260,உங்கள் சிலிண்டர் மானியம் நிறுத்தப்படும். ஆதார் இணைப்பை உறுதிசெய்ய இங்கே உள்ளிடவும்: http://bit-lnk.example/x7Kp,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S18
+TA-0261,இலவச 3 மாத ரீசார்ஜ் சலுகை! இன்று மட்டும். உங்கள் எண்ணை உள்ளிட்டு PIN-ஐ உறுதிப்படுத்தவும்: http://upd8-account.example/login,scam,Tamil,recharge_scam,synthetic,claude_templates_v1,S27
+TA-0262,"வாழ்த்துகள்! அதிர்ஷ்டக் குலுக்கலில் நீங்கள் ரூ.25,000 பரிசு வென்றுள்ளீர்கள். பரிசைப் பெற இன்றே இங்கே பதிவு செய்யுங்கள்: http://claim-prize-now.example/win",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S03
+TA-0263,"உங்களுக்கு ரூ.7,800 கேஷ்பேக் காத்திருக்கிறது. பெற, UPI கோரிக்கையை ஏற்று உங்கள் PIN-ஐ உள்ளிடவும்.",scam,Tamil,upi_fraud,synthetic,claude_templates_v1,S12
+TA-0264,உங்கள் சிலிண்டர் மானியம் நிறுத்தப்படும். ஆதார் இணைப்பை உறுதிசெய்ய இங்கே உள்ளிடவும்: http://claim-prize-now.example/win,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S18
+TA-0265,"SBI: உங்கள் கடன் தவணை ரூ.25,000 வரும் 12-Dec அன்று பற்று வைக்கப்படும். போதுமான இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L08
+TA-0266,"உங்கள் மின் கட்டணம் ரூ.12,500 வெற்றிகரமாகச் செலுத்தப்பட்டது. ரசீது எண் 206436110. நன்றி.",legitimate,Tamil,none,synthetic,claude_templates_v1,L07
+TA-0267,"வாழ்த்துகள்! அதிர்ஷ்டக் குலுக்கலில் நீங்கள் ரூ.25,000 பரிசு வென்றுள்ளீர்கள். பரிசைப் பெற இன்றே இங்கே பதிவு செய்யுங்கள்: http://kyc-update-india.example/verify",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S03
+TA-0268,எங்கள் VIP குழுவில் சேருங்கள்! ஒரு வாரத்தில் முதலீட்டை இரட்டிப்பாக்கலாம். உறுதியான லாபம். சேர: http://claim-prize-now.example/win,scam,Tamil,investment_scam,synthetic,claude_templates_v1,S15
+TA-0269,புதிய சாதனத்தில் உங்கள் கணக்கில் உள்நுழைவு நடந்தது. நீங்கள் இல்லை என்றால் ஆப்-ல் கடவுச்சொல்லை மாற்றவும். இணைப்பைத் திறக்க வேண்டாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L27
+TA-0270,"IOB: உங்கள் கடன் தவணை ரூ.25,000 வரும் 15-Dec அன்று பற்று வைக்கப்படும். போதுமான இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L08
+TA-0271,"உங்கள் IOB கிரெடிட் கார்டு ரிவார்டு புள்ளிகள் ரூ.25,000 இன்று காலாவதியாகும். இப்போதே பணமாக மாற்ற: http://upd8-account.example/login",scam,Tamil,reward_points,synthetic,claude_templates_v1,S16
+TA-0272,"அன்புள்ள வாடிக்கையாளரே, உங்கள் ICICI Bank கணக்கின் KYC புதுப்பிக்கப்படவில்லை. இன்று இரவுக்குள் புதுப்பிக்காவிட்டால் கணக்கு முடக்கப்படும். உடனே புதுப்பிக்க: http://kyc-update-india.example/verify",scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S01
+TA-0273,"SBI: உங்கள் கணக்கு XX5678-ல் ரூ.2,000 வரவு வைக்கப்பட்டது. தற்போதைய இருப்பு ரூ.18,900.",legitimate,Tamil,none,synthetic,claude_templates_v1,L02
+TA-0274,உங்கள் பார்சல் வெற்றிகரமாக வழங்கப்பட்டது. நன்றி! பொருளில் ஏதேனும் சிக்கல் இருந்தால் ஆப்-ல் தெரிவிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L06
+TA-0275,உங்கள் சிம் கார்டு KYC நிலுவையில் உள்ளது. 2 மணி நேரத்தில் இணைப்பு நிறுத்தப்படும். இப்போதே அழைக்கவும்: +91-9XXXXXXXXX,scam,Tamil,sim_block,synthetic,claude_templates_v1,S13
+TA-0276,"உங்கள் மொபைல் எண் ரூ.5,00,000 லக்கி டிரா-வில் தேர்வாகியுள்ளது. பரிசுத் தொகையைப் பெற செயலாக்கக் கட்டணம் ரூ.2,999 செலுத்தவும்: http://upd8-account.example/login",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S04
+TA-0277,உங்கள் Indian Bank ரிவார்டு புள்ளிகளைப் பெற இந்த ஆப்-ஐ நிறுவவும்: http://bit-lnk.example/x7Kp. நிறுவிய பின் அனுமதிகளை ஏற்கவும்.,scam,Tamil,fake_app,synthetic,claude_templates_v1,S21
+TA-0278,"IOB: உங்கள் கிரெடிட் கார்டு பில் ரூ.3,500 உருவாக்கப்பட்டது. கடைசி தேதி 12-Dec. ஆப்-ல் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L21
+TA-0279,Indian Bank: உங்கள் KYC ஆவணங்களை அருகிலுள்ள கிளையில் நேரில் புதுப்பிக்கலாம். எந்த இணைப்பையும் திறக்க வேண்டாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L13
+TA-0280,"வணக்கம், நான் வெளிநாட்டிலிருந்து உங்களுக்கு விலையுயர்ந்த பரிசு அனுப்பியுள்ளேன். விமான நிலையக் கட்டணம் ரூ.999 செலுத்தினால் கிடைக்கும்: +91-9XXXXXXXXX",scam,Tamil,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TA-0281,"வாழ்த்துகள்! அதிர்ஷ்டக் குலுக்கலில் நீங்கள் ரூ.10,00,000 பரிசு வென்றுள்ளீர்கள். பரிசைப் பெற இன்றே இங்கே பதிவு செய்யுங்கள்: http://claim-prize-now.example/win",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S03
+TA-0282,"உங்கள் ஆர்டருக்கான ரூ.3,500 பணத்தைத் திரும்பப் பெற, அனுப்பப்பட்ட 6 இலக்க OTP-ஐ எங்களுக்குப் பகிரவும்.",scam,Tamil,otp_request,synthetic,claude_templates_v1,S06
+TA-0283,"உங்கள் சம்பளம் ரூ.1,250 XX5678 கணக்கில் வரவு வைக்கப்பட்டது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L15
+TA-0284,"வருமான வரித் துறை: உங்களுக்கு ரூ.12,500 வரித் திரும்பப் பெறுதல் அனுமதிக்கப்பட்டுள்ளது. வங்கி விவரங்களைச் சமர்ப்பிக்க: http://kyc-update-india.example/verify",scam,Tamil,tax_refund,synthetic,claude_templates_v1,S17
+TA-0285,"தவறுதலாக உங்கள் கணக்கிற்கு ரூ.25,000 அனுப்பிவிட்டேன். தயவுசெய்து திரும்ப அனுப்புங்கள்: +91-7XXXXXXXXX",scam,Tamil,wrong_transfer,synthetic,claude_templates_v1,S20
+TA-0286,SBI பாதுகாப்புத் துறை: உங்கள் கணக்கில் சந்தேகத்திற்குரிய பரிவர்த்தனை. தடுக்க உங்களுக்கு வந்த OTP-ஐ உடனே இந்த எண்ணில் தெரிவிக்கவும்: +91-7XXXXXXXXX,scam,Tamil,otp_request,synthetic,claude_templates_v1,S05
+TA-0287,"உங்கள் ஆர்டருக்கான ரூ.7,800 பணத்தைத் திரும்பப் பெற, அனுப்பப்பட்ட 6 இலக்க OTP-ஐ எங்களுக்குப் பகிரவும்.",scam,Tamil,otp_request,synthetic,claude_templates_v1,S06
+TA-0288,"Axis Bank: உங்கள் கணக்கு XX5678-ல் ரூ.2,000 வரவு வைக்கப்பட்டது. தற்போதைய இருப்பு ரூ.5,670.",legitimate,Tamil,none,synthetic,claude_templates_v1,L02
+TA-0289,254573 உங்கள் உள்நுழைவுக் குறியீடு. 10 நிமிடங்களில் காலாவதியாகும். நீங்கள் கேட்கவில்லை என்றால் இதைப் புறக்கணிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L04
+TA-0290,"உங்களுக்கு ரூ.1,00,000 கடன் உடனடி ஒப்புதல்! ஆவணங்கள் தேவையில்லை. முதலில் காப்பீட்டுக் கட்டணம் ரூ.2,999 செலுத்தவும்: http://bit-lnk.example/x7Kp",scam,Tamil,loan_fee,synthetic,claude_templates_v1,S11
+TA-0291,"உங்கள் ஆர்டருக்கான ரூ.25,000 பணத்தைத் திரும்பப் பெற, அனுப்பப்பட்ட 6 இலக்க OTP-ஐ எங்களுக்குப் பகிரவும்.",scam,Tamil,otp_request,synthetic,claude_templates_v1,S06
+TA-0292,"உங்கள் ஆர்டர் ரத்து செய்யப்பட்டதால் ரூ.2,000 5-7 வேலை நாட்களில் உங்கள் மூலக் கணக்கிற்குத் திரும்ப வரும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L22
+TA-0293,"வீடியோவை லைக் செய்தால் ஒவ்வொன்றுக்கும் ரூ.3,000. முதலில் ரூ.199 டெபாசிட் செய்யவும்: http://upd8-account.example/login",scam,Tamil,job_scam,synthetic,claude_templates_v1,S29
+TA-0294,உங்கள் சிலிண்டர் முன்பதிவு உறுதியானது. விநியோக எண் 899757113. 2-3 நாட்களில் வழங்கப்படும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L24
+TA-0295,"உங்கள் மொபைல் எண் ரூ.10,00,000 லக்கி டிரா-வில் தேர்வாகியுள்ளது. பரிசுத் தொகையைப் பெற செயலாக்கக் கட்டணம் ரூ.199 செலுத்தவும்: http://rewards-india.example/claim",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S04
+TA-0296,உங்கள் ரயில் டிக்கெட் உறுதி செய்யப்பட்டது. PNR 199062344. பயணத் தேதி 20-Dec. இனிய பயணம்!,legitimate,Tamil,none,synthetic,claude_templates_v1,L11
+TA-0297,"உங்கள் Indian Bank கணக்கில் ரூ.12,500 பரிவர்த்தனை நடந்துள்ளது. நீங்கள் செய்யவில்லை என்றால் ரத்து செய்ய உடனே உங்கள் கார்டு எண்ணை உள்ளிடவும்: http://upd8-account.example/login",scam,Tamil,card_phishing,synthetic,claude_templates_v1,S25
+TA-0298,"உங்கள் காப்பீட்டு முதிர்வுத் தொகை ரூ.25,000 தயாராக உள்ளது. பெற செயலாக்கக் கட்டணம் ரூ.1,499 செலுத்தவும்: http://upd8-account.example/login",scam,Tamil,insurance_scam,synthetic,claude_templates_v1,S30
+TA-0299,உங்கள் மின் கட்டணம் ரூ.499 வெற்றிகரமாகச் செலுத்தப்பட்டது. ரசீது எண் 632424154. நன்றி.,legitimate,Tamil,none,synthetic,claude_templates_v1,L07
+TA-0300,"வருமான வரித் துறை: உங்களுக்கு ரூ.3,500 வரித் திரும்பப் பெறுதல் அனுமதிக்கப்பட்டுள்ளது. வங்கி விவரங்களைச் சமர்ப்பிக்க: http://rewards-india.example/claim",scam,Tamil,tax_refund,synthetic,claude_templates_v1,S17
+TA-0301,உங்கள் பார்சல் சுங்கத் துறையில் நிறுத்தப்பட்டுள்ளது. விடுவிக்க ரூ.999 கட்டணம் செலுத்தவும்: http://secure-bank-login.example/a1,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S08
+TA-0302,"உங்களுக்கு ரூ.499 கேஷ்பேக் காத்திருக்கிறது. பெற, UPI கோரிக்கையை ஏற்று உங்கள் PIN-ஐ உள்ளிடவும்.",scam,Tamil,upi_fraud,synthetic,claude_templates_v1,S12
+TA-0303,"Indian Bank: உங்கள் கணக்கு XX5678-ல் ரூ.25,000 வரவு வைக்கப்பட்டது. தற்போதைய இருப்பு ரூ.1,240.",legitimate,Tamil,none,synthetic,claude_templates_v1,L02
+TA-0304,உங்கள் நேர்காணல் 5-Jan அன்று காலை 11 மணிக்கு நடைபெறும். அடையாள அட்டையுடன் வரவும். கட்டணம் எதுவும் இல்லை.,legitimate,Tamil,none,synthetic,claude_templates_v1,L25
+TA-0305,"Indian Bank: உங்கள் கிரெடிட் கார்டு பில் ரூ.3,500 உருவாக்கப்பட்டது. கடைசி தேதி 5-Jan. ஆப்-ல் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L21
+TA-0306,"வீட்டிலிருந்தே வேலை! தினமும் ரூ.3,000 சம்பாதிக்கலாம். பதிவுக் கட்டணம் ரூ.99 மட்டும். WhatsApp-ல் தொடர்பு கொள்ளவும்: +91-8XXXXXXXXX",scam,Tamil,job_scam,synthetic,claude_templates_v1,S10
+TA-0307,"மின் கட்டணம் ரூ.1,250 20-Dec-க்குள் செலுத்த வேண்டும். அதிகாரப்பூர்வ ஆப் அல்லது அலுவலகத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L16
+TA-0308,"உங்கள் Axis Bank கணக்கில் ரூ.7,800 பரிவர்த்தனை நடந்துள்ளது. நீங்கள் செய்யவில்லை என்றால் ரத்து செய்ய உடனே உங்கள் கார்டு எண்ணை உள்ளிடவும்: http://rewards-india.example/claim",scam,Tamil,card_phishing,synthetic,claude_templates_v1,S25
+TA-0309,"உங்கள் ஆர்டர் ரத்து செய்யப்பட்டதால் ரூ.1,250 5-7 வேலை நாட்களில் உங்கள் மூலக் கணக்கிற்குத் திரும்ப வரும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L22
+TA-0310,"அரசு கல்வி உதவித்தொகை ரூ.2,50,000 உங்களுக்கு அனுமதிக்கப்பட்டுள்ளது. பெற வங்கி எண் மற்றும் ATM PIN சமர்ப்பிக்கவும்: http://secure-bank-login.example/a1",scam,Tamil,scholarship_scam,synthetic,claude_templates_v1,S23
+TA-0311,உங்கள் வாடகை வாகன ஓட்டுநர் 5 நிமிடத்தில் வருவார். OTP 544432. பயணம் தொடங்கும்போது மட்டும் ஓட்டுநரிடம் சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L20
+TA-0312,"மின் கட்டணம் ரூ.3,500 12-Dec-க்குள் செலுத்த வேண்டும். அதிகாரப்பூர்வ ஆப் அல்லது அலுவலகத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L16
+TA-0313,உங்கள் ரயில் டிக்கெட் உறுதி செய்யப்பட்டது. PNR 411249035. பயணத் தேதி 15-Dec. இனிய பயணம்!,legitimate,Tamil,none,synthetic,claude_templates_v1,L11
+TA-0314,"SBI எச்சரிக்கை: உங்கள் PIN, OTP, CVV ஆகியவற்றை யாரிடமும் பகிர வேண்டாம். சந்தேகம் இருந்தால் கார்டின் பின்புறம் உள்ள எண்ணை அழைக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L12
+TA-0315,"Indian Bank: உங்கள் கணக்கு XX1234-ல் இருப்பு ரூ.42,310 மட்டுமே உள்ளது. குறைந்தபட்ச இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L26
+TA-0316,உங்கள் சிம் கார்டு KYC நிலுவையில் உள்ளது. 2 மணி நேரத்தில் இணைப்பு நிறுத்தப்படும். இப்போதே அழைக்கவும்: +91-7XXXXXXXXX,scam,Tamil,sim_block,synthetic,claude_templates_v1,S13
+TA-0317,உங்கள் ஆர்டர் இன்று மாலை 6 மணிக்குள் டெலிவரி செய்யப்படும். டெலிவரி நபர் வரும்போது ஆர்டர் எண் 991251341 சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L05
+TA-0318,உங்கள் ரயில் டிக்கெட் உறுதி செய்யப்பட்டது. PNR 356804420. பயணத் தேதி 5-Jan. இனிய பயணம்!,legitimate,Tamil,none,synthetic,claude_templates_v1,L11
+TA-0319,உங்கள் ரயில் டிக்கெட் உறுதி செய்யப்பட்டது. PNR 557431329. பயணத் தேதி 12-Dec. இனிய பயணம்!,legitimate,Tamil,none,synthetic,claude_templates_v1,L11
+TA-0320,"உங்கள் காப்பீட்டு முதிர்வுத் தொகை ரூ.10,00,000 தயாராக உள்ளது. பெற செயலாக்கக் கட்டணம் ரூ.499 செலுத்தவும்: http://rewards-india.example/claim",scam,Tamil,insurance_scam,synthetic,claude_templates_v1,S30
+TA-0321,"உங்கள் SBI கிரெடிட் கார்டு ரிவார்டு புள்ளிகள் ரூ.1,250 இன்று காலாவதியாகும். இப்போதே பணமாக மாற்ற: http://upd8-account.example/login",scam,Tamil,reward_points,synthetic,claude_templates_v1,S16
+TA-0322,"வீடியோவை லைக் செய்தால் ஒவ்வொன்றுக்கும் ரூ.1,500. முதலில் ரூ.2,999 டெபாசிட் செய்யவும்: http://secure-bank-login.example/a1",scam,Tamil,job_scam,synthetic,claude_templates_v1,S29
+TA-0323,உங்கள் ICICI Bank ரிவார்டு புள்ளிகளைப் பெற இந்த ஆப்-ஐ நிறுவவும்: http://claim-prize-now.example/win. நிறுவிய பின் அனுமதிகளை ஏற்கவும்.,scam,Tamil,fake_app,synthetic,claude_templates_v1,S21
+TA-0324,"உங்கள் சம்பளம் ரூ.2,000 XX1234 கணக்கில் வரவு வைக்கப்பட்டது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L15
+TA-0325,இலவச 3 மாத ரீசார்ஜ் சலுகை! இன்று மட்டும். உங்கள் எண்ணை உள்ளிட்டு PIN-ஐ உறுதிப்படுத்தவும்: http://bit-lnk.example/x7Kp,scam,Tamil,recharge_scam,synthetic,claude_templates_v1,S27
+TA-0326,"HDFC Bank எச்சரிக்கை: உங்கள் PIN, OTP, CVV ஆகியவற்றை யாரிடமும் பகிர வேண்டாம். சந்தேகம் இருந்தால் கார்டின் பின்புறம் உள்ள எண்ணை அழைக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L12
+TA-0327,"IOB: உங்கள் கணக்கு எண் XX1234-ல் இருந்து ரூ.3,500 பற்று வைக்கப்பட்டது. இருப்பு ரூ.5,670.",legitimate,Tamil,none,synthetic,claude_templates_v1,L01
+TA-0328,உங்கள் ரீசார்ஜ் ரூ.499 வெற்றிகரமாக முடிந்தது. வேலிடிட்டி 28 நாட்கள்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L09
+TA-0329,"தவறுதலாக உங்கள் கணக்கிற்கு ரூ.2,000 அனுப்பிவிட்டேன். தயவுசெய்து திரும்ப அனுப்புங்கள்: +91-7XXXXXXXXX",scam,Tamil,wrong_transfer,synthetic,claude_templates_v1,S20
+TA-0330,"அம்மா, என் எண் மாறிவிட்டது. அவசரமாக ரூ.2,000 அனுப்ப முடியுமா? இந்த UPI எண்ணுக்கு அனுப்பவும்: +91-9XXXXXXXXX",scam,Tamil,relative_emergency,synthetic,claude_templates_v1,S19
+TA-0331,Axis Bank: உங்கள் KYC ஆவணங்களை அருகிலுள்ள கிளையில் நேரில் புதுப்பிக்கலாம். எந்த இணைப்பையும் திறக்க வேண்டாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L13
+TA-0332,"IOB: உங்கள் கணக்கு எண் XX9021-ல் இருந்து ரூ.7,800 பற்று வைக்கப்பட்டது. இருப்பு ரூ.42,310.",legitimate,Tamil,none,synthetic,claude_templates_v1,L01
+TA-0333,"உங்களுக்கு ரூ.50,000 கடன் உடனடி ஒப்புதல்! ஆவணங்கள் தேவையில்லை. முதலில் காப்பீட்டுக் கட்டணம் ரூ.199 செலுத்தவும்: http://secure-bank-login.example/a1",scam,Tamil,loan_fee,synthetic,claude_templates_v1,S11
+TA-0334,உங்கள் பார்சல் சுங்கத் துறையில் நிறுத்தப்பட்டுள்ளது. விடுவிக்க ரூ.99 கட்டணம் செலுத்தவும்: http://upd8-account.example/login,scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S08
+TA-0335,இலவச 3 மாத ரீசார்ஜ் சலுகை! இன்று மட்டும். உங்கள் எண்ணை உள்ளிட்டு PIN-ஐ உறுதிப்படுத்தவும்: http://rewards-india.example/claim,scam,Tamil,recharge_scam,synthetic,claude_templates_v1,S27
+TA-0336,"உங்கள் ஆர்டர் ரத்து செய்யப்பட்டதால் ரூ.25,000 5-7 வேலை நாட்களில் உங்கள் மூலக் கணக்கிற்குத் திரும்ப வரும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L22
+TA-0337,"தீபாவளி சிறப்புப் பரிசு! ரூ.50,000 மதிப்புள்ள கிஃப்ட் வவுச்சர் இலவசம். இப்போதே பெற: http://rewards-india.example/claim",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S24
+TA-0338,"உங்கள் Canara Bank கிரெடிட் கார்டு ரிவார்டு புள்ளிகள் ரூ.3,500 இன்று காலாவதியாகும். இப்போதே பணமாக மாற்ற: http://upd8-account.example/login",scam,Tamil,reward_points,synthetic,claude_templates_v1,S16
+TA-0339,IOB: உங்கள் கிரெடிட் கார்டு பில் ரூ.499 உருவாக்கப்பட்டது. கடைசி தேதி 15-Dec. ஆப்-ல் செலுத்தலாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L21
+TA-0340,"வணக்கம், நான் வெளிநாட்டிலிருந்து உங்களுக்கு விலையுயர்ந்த பரிசு அனுப்பியுள்ளேன். விமான நிலையக் கட்டணம் ரூ.499 செலுத்தினால் கிடைக்கும்: +91-8XXXXXXXXX",scam,Tamil,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TA-0341,உங்கள் ஆர்டர் ரத்து செய்யப்பட்டதால் ரூ.499 5-7 வேலை நாட்களில் உங்கள் மூலக் கணக்கிற்குத் திரும்ப வரும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L22
+TA-0342,"HDFC Bank: உங்கள் கடன் தவணை ரூ.12,500 வரும் 5-Jan அன்று பற்று வைக்கப்படும். போதுமான இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L08
+TA-0343,"போக்குவரத்து விதிமீறல் அபராதம் ரூ.25,000 உங்கள் வாகனத்திற்கு விதிக்கப்பட்டுள்ளது. அதிகாரப்பூர்வ அரசு இணையதளத்தில் அல்லது காவல் நிலையத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L30
+TA-0344,"HDFC Bank: உங்கள் கணக்கு XX9021-ல் இருப்பு ரூ.1,240 மட்டுமே உள்ளது. குறைந்தபட்ச இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L26
+TA-0345,ICICI Bank: உங்கள் KYC ஆவணங்களை அருகிலுள்ள கிளையில் நேரில் புதுப்பிக்கலாம். எந்த இணைப்பையும் திறக்க வேண்டாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L13
+TA-0346,"அன்புள்ள வாடிக்கையாளரே, உங்கள் Canara Bank கணக்கின் KYC புதுப்பிக்கப்படவில்லை. இன்று இரவுக்குள் புதுப்பிக்காவிட்டால் கணக்கு முடக்கப்படும். உடனே புதுப்பிக்க: http://claim-prize-now.example/win",scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S01
+TA-0347,"அன்புள்ள வாடிக்கையாளரே, உங்கள் Canara Bank கணக்கின் KYC புதுப்பிக்கப்படவில்லை. இன்று இரவுக்குள் புதுப்பிக்காவிட்டால் கணக்கு முடக்கப்படும். உடனே புதுப்பிக்க: http://rewards-india.example/claim",scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S01
+TA-0348,எங்கள் VIP குழுவில் சேருங்கள்! ஒரு வாரத்தில் முதலீட்டை இரட்டிப்பாக்கலாம். உறுதியான லாபம். சேர: http://rewards-india.example/claim,scam,Tamil,investment_scam,synthetic,claude_templates_v1,S15
+TA-0349,"தவறுதலாக உங்கள் கணக்கிற்கு ரூ.12,500 அனுப்பிவிட்டேன். தயவுசெய்து திரும்ப அனுப்புங்கள்: +91-9XXXXXXXXX",scam,Tamil,wrong_transfer,synthetic,claude_templates_v1,S20
+TA-0350,"உங்கள் காப்பீட்டு முதிர்வுத் தொகை ரூ.10,00,000 தயாராக உள்ளது. பெற செயலாக்கக் கட்டணம் ரூ.199 செலுத்தவும்: http://claim-prize-now.example/win",scam,Tamil,insurance_scam,synthetic,claude_templates_v1,S30
+TA-0351,உங்கள் ரயில் டிக்கெட் உறுதி செய்யப்பட்டது. PNR 832060385. பயணத் தேதி 12-Dec. இனிய பயணம்!,legitimate,Tamil,none,synthetic,claude_templates_v1,L11
+TA-0352,"நீங்கள் UPI மூலம் ரூ.25,000 அனுப்பியுள்ளீர்கள். பரிவர்த்தனை எண் 508214862. உங்களுடையது அல்ல என்றால் உடனே வங்கியை அணுகவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L14
+TA-0353,உங்கள் ICICI Bank ரிவார்டு புள்ளிகளைப் பெற இந்த ஆப்-ஐ நிறுவவும்: http://upd8-account.example/login. நிறுவிய பின் அனுமதிகளை ஏற்கவும்.,scam,Tamil,fake_app,synthetic,claude_templates_v1,S21
+TA-0354,"உங்கள் ஆர்டருக்கான ரூ.12,500 பணத்தைத் திரும்பப் பெற, அனுப்பப்பட்ட 6 இலக்க OTP-ஐ எங்களுக்குப் பகிரவும்.",scam,Tamil,otp_request,synthetic,claude_templates_v1,S06
+TA-0355,உங்கள் சிலிண்டர் மானியம் நிறுத்தப்படும். ஆதார் இணைப்பை உறுதிசெய்ய இங்கே உள்ளிடவும்: http://kyc-update-india.example/verify,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S18
+TA-0356,622660 உங்கள் உள்நுழைவுக் குறியீடு. 10 நிமிடங்களில் காலாவதியாகும். நீங்கள் கேட்கவில்லை என்றால் இதைப் புறக்கணிக்கவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L04
+TA-0357,"அம்மா, என் எண் மாறிவிட்டது. அவசரமாக ரூ.12,500 அனுப்ப முடியுமா? இந்த UPI எண்ணுக்கு அனுப்பவும்: +91-7XXXXXXXXX",scam,Tamil,relative_emergency,synthetic,claude_templates_v1,S19
+TA-0358,"வீட்டிலிருந்தே வேலை! தினமும் ரூ.1,500 சம்பாதிக்கலாம். பதிவுக் கட்டணம் ரூ.499 மட்டும். WhatsApp-ல் தொடர்பு கொள்ளவும்: +91-8XXXXXXXXX",scam,Tamil,job_scam,synthetic,claude_templates_v1,S10
+TA-0359,"Axis Bank: உங்கள் கணக்கு எண் XX5678-ல் இருந்து ரூ.499 பற்று வைக்கப்பட்டது. இருப்பு ரூ.1,240.",legitimate,Tamil,none,synthetic,claude_templates_v1,L01
+TA-0360,"உங்கள் பார்சல் சுங்கத் துறையில் நிறுத்தப்பட்டுள்ளது. விடுவிக்க ரூ.1,499 கட்டணம் செலுத்தவும்: http://upd8-account.example/login",scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S08
+TA-0361,HDFC Bank: உங்கள் KYC ஆவணங்களை அருகிலுள்ள கிளையில் நேரில் புதுப்பிக்கலாம். எந்த இணைப்பையும் திறக்க வேண்டாம்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L13
+TA-0362,"உங்கள் காப்பீட்டுத் தவணை ரூ.12,500 5-Jan அன்று செலுத்த வேண்டும். ஆட்டோ-பே ஏற்கனவே செயல்படுத்தப்பட்டுள்ளது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L23
+TA-0363,"நீங்கள் UPI மூலம் ரூ.3,500 அனுப்பியுள்ளீர்கள். பரிவர்த்தனை எண் 229991191. உங்களுடையது அல்ல என்றால் உடனே வங்கியை அணுகவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L14
+TA-0364,உங்கள் ஆதார் எண் இன்று முடக்கப்படும். தவிர்க்க OTP மூலம் உறுதிப்படுத்தவும்: http://secure-bank-login.example/a1,scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S26
+TA-0365,"வணக்கம், நான் வெளிநாட்டிலிருந்து உங்களுக்கு விலையுயர்ந்த பரிசு அனுப்பியுள்ளேன். விமான நிலையக் கட்டணம் ரூ.1,499 செலுத்தினால் கிடைக்கும்: +91-8XXXXXXXXX",scam,Tamil,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TA-0366,"போக்குவரத்து விதிமீறல் அபராதம் ரூ.12,500 உங்கள் வாகனத்திற்கு விதிக்கப்பட்டுள்ளது. அதிகாரப்பூர்வ அரசு இணையதளத்தில் அல்லது காவல் நிலையத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L30
+TA-0367,உங்கள் சிலிண்டர் மானியம் நிறுத்தப்படும். ஆதார் இணைப்பை உறுதிசெய்ய இங்கே உள்ளிடவும்: http://rewards-india.example/claim,scam,Tamil,subsidy_scam,synthetic,claude_templates_v1,S18
+TA-0368,"Axis Bank: உங்கள் கணக்கு எண் XX5678-ல் இருந்து ரூ.2,000 பற்று வைக்கப்பட்டது. இருப்பு ரூ.42,310.",legitimate,Tamil,none,synthetic,claude_templates_v1,L01
+TA-0369,"உங்கள் ரீசார்ஜ் ரூ.2,000 வெற்றிகரமாக முடிந்தது. வேலிடிட்டி 28 நாட்கள்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L09
+TA-0370,"உங்கள் காப்பீட்டுத் தவணை ரூ.25,000 12-Dec அன்று செலுத்த வேண்டும். ஆட்டோ-பே ஏற்கனவே செயல்படுத்தப்பட்டுள்ளது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L23
+TA-0371,"வாழ்த்துகள்! அதிர்ஷ்டக் குலுக்கலில் நீங்கள் ரூ.10,00,000 பரிசு வென்றுள்ளீர்கள். பரிசைப் பெற இன்றே இங்கே பதிவு செய்யுங்கள்: http://upd8-account.example/login",scam,Tamil,prize_scam,synthetic,claude_templates_v1,S03
+TA-0372,"வணக்கம், நான் வெளிநாட்டிலிருந்து உங்களுக்கு விலையுயர்ந்த பரிசு அனுப்பியுள்ளேன். விமான நிலையக் கட்டணம் ரூ.499 செலுத்தினால் கிடைக்கும்: +91-9XXXXXXXXX",scam,Tamil,gift_parcel_scam,synthetic,claude_templates_v1,S28
+TA-0373,"Canara Bank: உங்கள் கணக்கு எண் XX4410-ல் இருந்து ரூ.1,250 பற்று வைக்கப்பட்டது. இருப்பு ரூ.5,670.",legitimate,Tamil,none,synthetic,claude_templates_v1,L01
+TA-0374,"Indian Bank: உங்கள் கடன் தவணை ரூ.7,800 வரும் 5-Jan அன்று பற்று வைக்கப்படும். போதுமான இருப்பைப் பராமரிக்கவும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L08
+TA-0375,"HDFC Bank: உங்கள் கணக்கு எண் XX4410-ல் இருந்து ரூ.3,500 பற்று வைக்கப்பட்டது. இருப்பு ரூ.42,310.",legitimate,Tamil,none,synthetic,claude_templates_v1,L01
+TA-0376,உங்கள் வாடகை வாகன ஓட்டுநர் 5 நிமிடத்தில் வருவார். OTP 417248. பயணம் தொடங்கும்போது மட்டும் ஓட்டுநரிடம் சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L20
+TA-0377,"உங்கள் ஆர்டர் ரத்து செய்யப்பட்டதால் ரூ.7,800 5-7 வேலை நாட்களில் உங்கள் மூலக் கணக்கிற்குத் திரும்ப வரும்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L22
+TA-0378,"அன்புள்ள வாடிக்கையாளரே, உங்கள் Indian Bank கணக்கின் KYC புதுப்பிக்கப்படவில்லை. இன்று இரவுக்குள் புதுப்பிக்காவிட்டால் கணக்கு முடக்கப்படும். உடனே புதுப்பிக்க: http://kyc-update-india.example/verify",scam,Tamil,fake_kyc,synthetic,claude_templates_v1,S01
+TA-0379,"உங்கள் ரீசார்ஜ் ரூ.12,500 வெற்றிகரமாக முடிந்தது. வேலிடிட்டி 28 நாட்கள்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L09
+TA-0380,"உங்கள் சம்பளம் ரூ.1,250 XX9021 கணக்கில் வரவு வைக்கப்பட்டது.",legitimate,Tamil,none,synthetic,claude_templates_v1,L15
+TA-0381,"வீட்டிலிருந்தே வேலை! தினமும் ரூ.3,000 சம்பாதிக்கலாம். பதிவுக் கட்டணம் ரூ.2,999 மட்டும். WhatsApp-ல் தொடர்பு கொள்ளவும்: +91-7XXXXXXXXX",scam,Tamil,job_scam,synthetic,claude_templates_v1,S10
+TA-0382,"ICICI Bank: உங்கள் கிரெடிட் கார்டு பில் ரூ.1,250 உருவாக்கப்பட்டது. கடைசி தேதி 15-Dec. ஆப்-ல் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L21
+TA-0383,உங்கள் ஆர்டர் இன்று மாலை 6 மணிக்குள் டெலிவரி செய்யப்படும். டெலிவரி நபர் வரும்போது ஆர்டர் எண் 859696915 சொல்லவும்.,legitimate,Tamil,none,synthetic,claude_templates_v1,L05
+TA-0384,TNEB அறிவிப்பு: நிலுவையில் உள்ள மின் கட்டணம் செலுத்தப்படாததால் இன்று இரவு 9.30 மணிக்கு உங்கள் மின் இணைப்பு துண்டிக்கப்படும். உடனே அழைக்கவும்: +91-8XXXXXXXXX,scam,Tamil,utility_threat,synthetic,claude_templates_v1,S07
+TA-0385,"உங்கள் தபால் பொருளை வழங்க முடியவில்லை. முகவரி தவறானது. ரூ.2,999 மறுவிநியோகக் கட்டணம் செலுத்தவும்: http://secure-bank-login.example/a1",scam,Tamil,parcel_fee,synthetic,claude_templates_v1,S09
+TA-0386,"போக்குவரத்து விதிமீறல் அபராதம் ரூ.1,250 உங்கள் வாகனத்திற்கு விதிக்கப்பட்டுள்ளது. அதிகாரப்பூர்வ அரசு இணையதளத்தில் அல்லது காவல் நிலையத்தில் செலுத்தலாம்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L30
+TA-0387,"உங்கள் மின் கட்டணம் ரூ.12,500 வெற்றிகரமாகச் செலுத்தப்பட்டது. ரசீது எண் 577590175. நன்றி.",legitimate,Tamil,none,synthetic,claude_templates_v1,L07
+TA-0388,"உங்கள் ரீசார்ஜ் ரூ.3,500 வெற்றிகரமாக முடிந்தது. வேலிடிட்டி 28 நாட்கள்.",legitimate,Tamil,none,synthetic,claude_templates_v1,L09
